@@ -3,3 +3,46 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+/*nav*/
+
+.nav-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(239, 239, 239);
+  gap:20px;
+}
+
+
+
+.nav-logo{
+  flex-basis: 150px;
+  margin: 30px;
+}
+
+.nav-logo img{
+  width:65%;
+
+}
+
+
+.nav-elements{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  
+}
+
+.nav-elements li{
+  margin: 10px;
+  font-size: 1.4rem;
+}
+
+
+/*header*/
+
+
