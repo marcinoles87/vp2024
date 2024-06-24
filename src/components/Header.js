@@ -6,7 +6,7 @@ function Header() {
       <div className='header-info'>
         <h1>Today is your Day ...</h1>
         <h2>Welcome to our Site</h2>
-        <button>Want more ? Click</button>
+        <button>More...</button>
       </div>
     </div>
   )
