@@ -7,6 +7,7 @@ import Header from './components/Header'
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import Headnav from './components/Headnav';
+import Tours from './components/Tours';
 
 function App() {
 
@@ -19,6 +20,7 @@ function App() {
       <Nav></Nav>
       <Header></Header>
       <Main></Main>
+      <Tours></Tours>
       
       <Contact></Contact>
       <Footer></Footer>
