@@ -142,10 +142,37 @@
 }
 
 .main-item{
+  width: 25%;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   margin-top: 50px;
-  width: 30%;
+  text-align: center;
+  padding: 30px;
+  
 }
+
+.main-about{
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  
+}
+
+.main-img{
+  width: 100%;
+  height: 100%;
+  margin: 50px;
+  border: 2px solid black;
+}
+
+.main-img img{
+  object-fit: cover;
+  width: 30vw;
+}
+
+
