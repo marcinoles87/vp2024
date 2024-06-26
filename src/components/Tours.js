@@ -1,6 +1,7 @@
 import React from 'react'
 
 import aus from '../img/aus.jpg'
+import czestochowa from '../img/czestochowa.jpg'
 
 function Tours() {
 
@@ -22,7 +23,7 @@ function Tours() {
     } ,
 
     {
-      img: '',
+      img: czestochowa,
       nazwa:'Czestochowa',
       opis : 'Czestochowa lies among the picturesque rocks of the Cracow-Czestochowa Upland, crowned with the ruins of medieval castles. Czestochowa is mainly associated with the Jasna Góra monastery and the icon of the Black Madonna, attributed to many miracles. The sanctuary is known as one of the largest pilgrimage sites in the world, but its impressive architecture also attracts many tourists. The Czestochowa Sanctuary is also an outstanding architectural monument of the 15th century, with later Renaissance and Baroque transformations. The number of pilgrims and tourists coming to the city is 5 million per year.We offer private transport and assistance at destination. The drive from Krakow takes about 2 hours. Our driver will help you to buy the tickets and find the most attractive places. This tour has no time limit, you decide how much time you want to spend on touring. The prize includes transport and the wait. It does not include the entrances fees.' ,
       czas : '2:20h' ,
