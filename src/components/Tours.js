@@ -2,6 +2,7 @@ import React from 'react'
 
 import aus from '../img/aus.jpg'
 import czestochowa from '../img/czestochowa.jpg'
+import zakopane from '../img/zakopane.jpg'
 
 function Tours() {
 
@@ -31,7 +32,7 @@ function Tours() {
     } ,
 
     {
-      img: '',
+      img: zakopane,
       nazwa:'Zakopane',
       opis : 'The most attractive summer and winter resort in Polish mountains. In the summer you can spend days walking in the mountains enjoying the breathtaking views. In the summer you won’t be bored thanks to winter activities like skiing or snowboarding. at any time of the year you can walk along the most popular street of the Polish mountains - Krupówki. You can buy souvenirs there, sit in a real highlanders eatery or eat delicious grilled oscypek cheese with cranberry.We offer private transport and assistance at destination. The drive from Krakow takes about 2 hours. Our driver will help you to buy the tickets and find the most attractive places. This tour has no time limit, you decide how much time you want to spend on touring. The prize includes transport and the wait. It does not include the entrances fees.' ,
       czas : '2:20h' ,
