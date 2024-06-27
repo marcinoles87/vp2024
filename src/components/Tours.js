@@ -67,10 +67,10 @@ function Tours() {
           return(
             <div className='tour-item' key={index}>
               <img src={item.img} alt={item.nazwa}></img>
-              <h3>{item.nazwa}</h3>
+              <h2>{item.nazwa}</h2>
               <p>{item.opis}</p>
-              <p>Time : {item.czas}</p>
-              <p>Price :{item.cena}</p>
+              <p><span style={{fontWeight:'800' , fontSize:'1.4rem'}}>Time :</span> {item.czas}</p>
+              {/* <p><span style={{fontWeight:'800' , fontSize:'1.4rem'}}>Price :</span>{item.cena}</p> */}
               
             </div>
           )
