@@ -82,7 +82,7 @@ function Tours() {
               <h2>{item.nazwa}</h2>
               <p>{item.opis}</p>
               <p><span style={{fontWeight:'800' , fontSize:'1.4rem'}}>Time :</span> {item.czas}</p>
-              <p><Link to={'/'+item.link} className='link'>Link</Link></p>
+              <Link to={'/'+item.link} className='link'>Link</Link>
             
               
             </div>
