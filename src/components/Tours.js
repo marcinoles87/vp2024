@@ -6,6 +6,7 @@ import zakopane from '../img/zakopane.jpg'
 import energy from '../img/energy.jpg'
 import cracow from '../img/header.jpg'
 import wieliczka from '../img/wieliczka.jpg'
+import travel from '../img/travel.jpg'
 
 function Tours() {
 
@@ -60,6 +61,10 @@ function Tours() {
   ]
   return (
     <div className='tours-container'>
+    
+
+  
+     
       <h1>Choose your destiny</h1>
 
       <div className='tours-grid'>
@@ -70,7 +75,7 @@ function Tours() {
               <h2>{item.nazwa}</h2>
               <p>{item.opis}</p>
               <p><span style={{fontWeight:'800' , fontSize:'1.4rem'}}>Time :</span> {item.czas}</p>
-              {/* <p><span style={{fontWeight:'800' , fontSize:'1.4rem'}}>Price :</span>{item.cena}</p> */}
+            
               
             </div>
           )

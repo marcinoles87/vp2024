@@ -1,5 +1,6 @@
 :root{
   --main-color:rgb(94, 221, 173);
+  --font-color:#777;
   
 }
 
@@ -148,7 +149,7 @@
 }
 
 .main-item{
-  width: 25%;
+  width: 30%;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -157,6 +158,12 @@
   text-align: center;
   padding: 30px;
   
+  
+}
+
+.main-item p{
+  color:var(--font-color);
+  font-size: 18px;
 }
 
 .main-about{
@@ -179,6 +186,7 @@
 
 .main-about p{
   font-size: 1.6rem;
+  color: var(--font-color);
 }
 
 .main-img img{
@@ -271,6 +279,17 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+/*footer*/
+
+.footer-container{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background-color: black;
+  color: var(--main-color);
+  padding: 5px;
 }
 
 

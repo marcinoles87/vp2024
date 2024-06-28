@@ -25,19 +25,19 @@ function Main() {
 
         <div className='main-item'>
           <i class="fa-regular fa-thumbs-up new"></i>
-          <h3>Teskt</h3>
+          <h3>Professional Care</h3>
+          <p>Licencjonowani przewodnicy po Krakowie zapraszają na zwiedzanie Krakowa. Niezwykłe historie o naszym ukochanym mieście opowiadamy w 8 językach. Szukasz przewodników, którzy potrafią połączyć pasję, entuzjazm i perfekcyjne przygotowanie? Trafiłeś na właściwych ludzi!</p>
+        </div>
+
+        <div className='main-item'>
+        <i class="fa-solid fa-medal new"></i>
+          <h3>Quality driver</h3>
           <p>Licencjonowani przewodnicy po Krakowie zapraszają na zwiedzanie Krakowa. Niezwykłe historie o naszym ukochanym mieście opowiadamy w 8 językach. Szukasz przewodników, którzy potrafią połączyć pasję, entuzjazm i perfekcyjne przygotowanie? Trafiłeś na właściwych ludzi!</p>
         </div>
 
         <div className='main-item'>
           <i class="fa-regular fa-thumbs-up new"></i>
-          <h3>Teskt</h3>
-          <p>Licencjonowani przewodnicy po Krakowie zapraszają na zwiedzanie Krakowa. Niezwykłe historie o naszym ukochanym mieście opowiadamy w 8 językach. Szukasz przewodników, którzy potrafią połączyć pasję, entuzjazm i perfekcyjne przygotowanie? Trafiłeś na właściwych ludzi!</p>
-        </div>
-
-        <div className='main-item'>
-          <i class="fa-regular fa-thumbs-up new"></i>
-          <h3>Teskt</h3>
+          <h3>Price</h3>
           <p>Licencjonowani przewodnicy po Krakowie zapraszają na zwiedzanie Krakowa. Niezwykłe historie o naszym ukochanym mieście opowiadamy w 8 językach. Szukasz przewodników, którzy potrafią połączyć pasję, entuzjazm i perfekcyjne przygotowanie? Trafiłeś na właściwych ludzi!</p>
         </div>
 
