@@ -1,9 +1,24 @@
-import React from 'react'
+import React, { useState } from 'react'
 import CountUp from 'react-countup';
 
 import mainImg from '../img/mainlogo.jpg'
 
 function Main() {
+
+  const [ counter , setCounter] = useState(false)
+
+
+  const startCounter = () => {
+
+    console.log(window.scrollY)
+
+    if(window.scrollY > 550){
+      setCounter(true)
+    } 
+  }
+
+  window.onscroll = startCounter
+
   return (
     <div className='main-container'>
       <div className='main-items'>
@@ -26,16 +41,16 @@ function Main() {
           <p>Licencjonowani przewodnicy po Krakowie zapraszają na zwiedzanie Krakowa. Niezwykłe historie o naszym ukochanym mieście opowiadamy w 8 językach. Szukasz przewodników, którzy potrafią połączyć pasję, entuzjazm i perfekcyjne przygotowanie? Trafiłeś na właściwych ludzi!</p>
         </div>
 
-       
-
       </div>
 
-        
-      <div className='main-count'>
-        <CountUp start={0} end={200} duration={5}></CountUp>
-        <CountUp start={0} end={200} duration={5}></CountUp>
-        <CountUp start={0} end={200} duration={5}></CountUp>
-      </div>
+        {counter ? 
+          <div className='main-count'>
+            <CountUp start={0} end={200} duration={5}></CountUp>
+            <CountUp start={0} end={200} duration={5}></CountUp>
+            <CountUp start={0} end={200} duration={5}></CountUp>
+          </div> 
+      :''
+}
 
       <div className='main-about'>
         <div className='main-img'>
