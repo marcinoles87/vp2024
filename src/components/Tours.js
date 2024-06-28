@@ -60,7 +60,7 @@ function Tours() {
   ]
   return (
     <div className='tours-container'>
-      <h1>Choose your destiny and contact Us</h1>
+      <h1>Choose your destiny</h1>
 
       <div className='tours-grid'>
         {tours.map( (item,index) => {
