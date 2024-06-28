@@ -82,6 +82,18 @@
   font-size: 1.4rem;
 }
 
+/*Link*/
+
+.link{
+  margin-top: 20px;
+  text-decoration: none;
+  color:black;
+  background-color: var(--main-color);
+  padding: 20px;
+  border-radius: 20px;
+  
+}
+
 
 /*header*/
 
