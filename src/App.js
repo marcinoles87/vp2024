@@ -38,6 +38,7 @@ function App() {
         <Route path='/zakopane' element={<Zakopane></Zakopane>}></Route>
         <Route path='/auschwitz' element={<Auschwitz></Auschwitz>}></Route>
         
+        
     </Routes>
 
      
