@@ -51,13 +51,13 @@ function Main() {
             </div>
 
             <div className='count-item'>
-            <p>Trips ride</p>
-            <CountUp start={0} end={200} duration={5}></CountUp>
+            <p>Client care</p>
+            <CountUp start={0} end={1900} duration={10}></CountUp>
             </div>
 
             <div className='count-item'>
-            <p>Trips ride</p>
-            <CountUp start={0} end={200} duration={5}></CountUp>
+            <p>Tours done</p>
+            <CountUp start={0} end={756} duration={5}></CountUp>
             </div>
             
             
