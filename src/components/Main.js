@@ -12,7 +12,7 @@ function Main() {
 
     console.log(window.scrollY)
 
-    if(window.scrollY > 550){
+    if(window.scrollY > 650){
       setCounter(true)
     } 
   }

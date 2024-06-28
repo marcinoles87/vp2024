@@ -93,6 +93,7 @@
   background-position: center;
   background-size: cover;
   filter: grayscale(0.2);
+  overflow: hidden;
   
 }
 
@@ -244,6 +245,32 @@
 .tour-item img:hover{
   padding: 0;
   
+}
+
+
+/*contact*/
+
+.contact-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  background-color: var(--main-color);
+  margin-top: 50px;
+  height: 50vh;
+}
+
+.contact-left{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.contact-right{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 
