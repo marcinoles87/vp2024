@@ -85,13 +85,25 @@
 /*Link*/
 
 .link{
-  margin-top: 30px;
+  
   text-decoration: none;
   color:black;
   background-color: var(--main-color);
-  padding: 20px;
+  padding: 10px 20px;
   border-radius: 20px;
+  border: 2px solid black;
+  transition: 0.4s ease;
   
+}
+
+.link:hover{
+  background-color: black;
+  color: var(--main-color);
+  border: 2px solid var(--main-color);
+}
+
+.tour-link{
+  margin-top: 30px;
 }
 
 

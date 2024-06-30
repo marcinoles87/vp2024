@@ -66,6 +66,10 @@ function Tours() {
       link : 'energylandia'
     } ,
   ]
+
+
+  
+
   return (
     <div className='tours-container'>
     
@@ -80,9 +84,12 @@ function Tours() {
             <div className='tour-item' key={index}>
               <img src={item.img} alt={item.nazwa}></img>
               <h2>{item.nazwa}</h2>
-              <p>{item.opis}</p>
+              <p>{item.opis.slice(0,300)} ...</p>
               <p><span style={{fontWeight:'800' , fontSize:'1.4rem'}}>Time :</span> {item.czas}</p>
-              <Link to={'/'+item.link} className='link'>Link</Link>
+              <div className='tour-link'>
+                  <Link to={'/'+item.link} className='link'>More</Link>
+              </div>
+              
             
               
             </div>
