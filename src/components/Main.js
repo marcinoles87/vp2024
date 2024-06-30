@@ -24,19 +24,19 @@ function Main() {
       <div className='main-items'>
 
         <div className='main-item'>
-          <i class="fa-regular fa-thumbs-up new"></i>
+          <i class="fa-regular fa-thumbs-up new fa-2xl"></i>
           <h3>Professional Care</h3>
           <p>Licencjonowani przewodnicy po Krakowie zapraszają na zwiedzanie Krakowa. Niezwykłe historie o naszym ukochanym mieście opowiadamy w 8 językach. Szukasz przewodników, którzy potrafią połączyć pasję, entuzjazm i perfekcyjne przygotowanie? Trafiłeś na właściwych ludzi!</p>
         </div>
 
         <div className='main-item'>
-        <i class="fa-solid fa-medal new"></i>
+        <i class="fa-solid fa-medal new fa-2xl"></i>
           <h3>Quality driver</h3>
           <p>Licencjonowani przewodnicy po Krakowie zapraszają na zwiedzanie Krakowa. Niezwykłe historie o naszym ukochanym mieście opowiadamy w 8 językach. Szukasz przewodników, którzy potrafią połączyć pasję, entuzjazm i perfekcyjne przygotowanie? Trafiłeś na właściwych ludzi!</p>
         </div>
 
         <div className='main-item'>
-          <i class="fa-regular fa-thumbs-up new"></i>
+        <i class="fa-solid fa-sack-dollar fa-2xl"></i>
           <h3>Price</h3>
           <p>Licencjonowani przewodnicy po Krakowie zapraszają na zwiedzanie Krakowa. Niezwykłe historie o naszym ukochanym mieście opowiadamy w 8 językach. Szukasz przewodników, którzy potrafią połączyć pasję, entuzjazm i perfekcyjne przygotowanie? Trafiłeś na właściwych ludzi!</p>
         </div>
