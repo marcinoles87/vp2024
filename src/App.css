@@ -310,6 +310,7 @@
   background-color: var(--main-color);
   margin-top: 50px;
   height: 50vh;
+  border-top: 2px solid black;
 }
 
 .contact-left{
