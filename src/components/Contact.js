@@ -1,5 +1,8 @@
 import React from 'react'
 
+import tripLogo from '../img/tripadvisor.png'
+import facebookLogo from '../img/facebookLogo.png'
+
 function Contact() {
   return (
     <div className='contact-container'>
@@ -14,10 +17,21 @@ function Contact() {
         <h2>Tours</h2>
         <h2>Price</h2>
         <h2>Tickets</h2>
-        <h2>Payment</h2>
-        <h2>TripAdvisor</h2>
-        <h2>Facebook</h2>
+      
+        
+    
       </div>
+
+      <div className='contact-right'>
+      <img src={tripLogo} alt='trip-advisor'></img>
+        
+        <img src={facebookLogo} alt='facebook-logo'></img>
+      </div>
+
+       <div className='contact-right'>
+        <h2>Payment</h2>
+        <h3>We accept all credit card</h3>
+       </div>
     </div>
   )
 }

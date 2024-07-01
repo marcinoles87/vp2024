@@ -326,6 +326,11 @@
   align-items: center;
 }
 
+.contact-right img{
+  width: 100px;
+  height: 100px;
+}
+
 /*footer*/
 
 .footer-container{
