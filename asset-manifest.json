@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.34e1b780.css",
+    "main.js": "/static/js/main.2f35a4f5.js",
+    "static/media/travel.jpg": "/static/media/travel.bffe3a9f8b8a107996c5.jpg",
+    "static/media/zakopane.jpg": "/static/media/zakopane.6c293f8634acfbeaa3c0.jpg",
+    "static/media/header.jpg": "/static/media/header.58f97a7c9372652e24c0.jpg",
+    "static/media/aus.jpg": "/static/media/aus.ec6840e5b48a0a042ef1.jpg",
+    "static/media/wieliczka.jpg": "/static/media/wieliczka.7a2b98d9761124b157ac.jpg",
+    "static/media/energy.jpg": "/static/media/energy.f4415cf10fba6e54e740.jpg",
+    "static/media/mainlogo.jpg": "/static/media/mainlogo.9728c753dbeec68a2427.jpg",
+    "static/media/czestochowa.jpg": "/static/media/czestochowa.846ac244829c540682fa.jpg",
+    "static/media/logo.png": "/static/media/logo.b9330e4427e704093d25.png",
+    "static/media/creditcard.png": "/static/media/creditcard.26542093dd7f08b53821.png",
+    "static/media/tripadvisor.png": "/static/media/tripadvisor.45ac34d0ecfbc5382699.png",
+    "static/media/facebookLogo.png": "/static/media/facebookLogo.2994cb6f4cb1ada37743.png",
+    "index.html": "/index.html",
+    "main.34e1b780.css.map": "/static/css/main.34e1b780.css.map",
+    "main.2f35a4f5.js.map": "/static/js/main.2f35a4f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34e1b780.css",
+    "static/js/main.2f35a4f5.js"
+  ]
+}
