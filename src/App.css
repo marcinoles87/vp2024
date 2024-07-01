@@ -231,7 +231,7 @@
 
 .main-about p{
   font-size: 1.6rem;
-  color: var(--font-color);
+  color: rgb(40, 40, 40);
 }
 
 .main-img img{
