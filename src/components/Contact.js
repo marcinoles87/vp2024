@@ -2,6 +2,7 @@ import React from 'react'
 
 import tripLogo from '../img/tripadvisor.png'
 import facebookLogo from '../img/facebookLogo.png'
+import creditCard from '../img/creditcard.png'
 
 function Contact() {
   return (
@@ -31,6 +32,8 @@ function Contact() {
        <div className='contact-right'>
         <h2>Payment</h2>
         <h3>We accept all credit card</h3>
+        <img src={creditCard} alt="credit-card"></img>
+
        </div>
     </div>
   )
