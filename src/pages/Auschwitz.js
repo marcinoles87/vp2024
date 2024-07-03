@@ -9,7 +9,12 @@ function Auschwitz() {
         <h1>Auschwitz</h1>
       </div>
       <div className='tour-main'>
-        <img src={imgAus} alt=''></img>
+
+
+        <div className='tour-img'>
+          <img src={imgAus} alt=''></img>
+        </div>
+       
         <div className='tour-info'>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat quas dolor sed dolorem accusantium quam rem voluptates. Maiores tenetur cumque necessitatibus in iusto dicta, obcaecati, consectetur beatae vel ad quia?
           Dolores quas sequi, assumenda eius reiciendis qui saepe deleniti necessitatibus delectus facilis nobis, tenetur voluptatem ut amet aliquid quos distinctio molestiae iste mollitia ullam voluptate iure. Rem accusantium porro et!
@@ -23,6 +28,13 @@ function Auschwitz() {
           Harum ipsum quisquam, illo veniam architecto deleniti sapiente obcaecati, explicabo laboriosam suscipit itaque recusandae voluptatibus cum voluptatum dolore corrupti? Natus repellat quaerat doloribus commodi possimus dolor soluta aperiam molestiae ipsam?
           </p>
         </div>
+      </div>
+
+      <div className='img'>
+      <img src={imgAus} alt=''></img>
+      <img src={imgAus} alt=''></img>
+      <img src={imgAus} alt=''></img>
+      <img src={imgAus} alt=''></img>
       </div>
     </div>
   )

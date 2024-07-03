@@ -375,8 +375,30 @@
   
 }
 
-.tour-main img{
+.tour-img{
   width: 40%;
+  height: 70%;
+
+}
+
+.tour-info{
+  width: 60%;
+}
+
+.tour-main img{
+  width: 100%;
+  object-fit:cover;
+  
+}
+
+.img{
+  display: flex;
+  flex-direction: row;
+  gap:10px;
+}
+
+.img img{
+  width: 20%;
 }
 
 
