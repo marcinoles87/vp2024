@@ -325,6 +325,16 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  
+}
+
+.contact-right h2{
+  transition: 0.6s ease;
+}
+
+.contact-right h2:hover{
+  font-size: 30px;
+  
 }
 
 .contact-right img{
@@ -342,5 +352,33 @@
   color: var(--main-color);
   padding: 5px;
 }
+
+/*one tour site*/
+
+.tour-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.tour-header{
+  text-align: center;
+}
+
+.tour-main{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  gap:20px;
+  padding: 10px;
+  
+}
+
+.tour-main img{
+  width: 40%;
+}
+
+
 
 
