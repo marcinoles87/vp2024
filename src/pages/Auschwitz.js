@@ -1,8 +1,31 @@
 import React from 'react'
 
 import imgAus from '../img/aus.jpg'
+import imgAus2 from '../img/aus2.jpg'
+import imgAus3 from '../img/aus3.jpg'
+import imgAus4 from '../img/aus4.jpg'
 
 function Auschwitz() {
+
+  const images = [
+    {
+      img:imgAus
+    } ,
+
+    {
+      img:imgAus2
+    } ,
+
+    {
+      img:imgAus3
+    } ,
+
+    {
+      img:imgAus4
+    } ,
+
+  ]
+
   return (
     <div className='tour-container'>
       <div className='tour-header'>
@@ -30,11 +53,16 @@ function Auschwitz() {
         </div>
       </div>
 
+
+
       <div className='img'>
-      <img src={imgAus} alt=''></img>
-      <img src={imgAus} alt=''></img>
-      <img src={imgAus} alt=''></img>
-      <img src={imgAus} alt=''></img>
+      {images.map( (item,index) => {
+        return(
+          <>
+            <img src={item.img} alt='auschwitz' key={index}></img>
+          </>
+        )
+      })}
       </div>
     </div>
   )
