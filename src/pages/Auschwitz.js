@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState } from 'react'
 
 import imgAus from '../img/aus.jpg'
 import imgAus2 from '../img/aus2.jpg'
@@ -6,6 +6,10 @@ import imgAus3 from '../img/aus3.jpg'
 import imgAus4 from '../img/aus4.jpg'
 
 function Auschwitz() {
+
+  let [picture , setPicture] = useState({imgAus});
+
+  
 
   const images = [
     {
@@ -26,6 +30,17 @@ function Auschwitz() {
 
   ]
 
+  const handleOnClick = () =>{
+
+    const pictureAdd = images[1]
+    console.log(pictureAdd)
+    
+    setPicture(
+      picture = pictureAdd.img
+      
+    )
+  }
+
   return (
     <div className='tour-container'>
       <div className='tour-header'>
@@ -35,7 +50,7 @@ function Auschwitz() {
 
 
         <div className='tour-img'>
-          <img src={imgAus} alt=''></img>
+          <img src={picture} alt='' ></img>
         </div>
        
         <div className='tour-info'>
@@ -59,7 +74,7 @@ function Auschwitz() {
       {images.map( (item,index) => {
         return(
           <>
-            <img src={item.img} alt='auschwitz' key={index}></img>
+            <img src={item.img} alt='auschwitz' key={index} onClick={handleOnClick}></img>
           </>
         )
       })}
