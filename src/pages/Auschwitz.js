@@ -32,22 +32,23 @@ function Auschwitz() {
 
   const handleOnClick = (e) =>{
     
-    console.log(e.target)
+    
     const pictureAdd = e.target
+    console.log(e.target.alt.index)
   
     
-    setPicture(
-    pictureAdd
-      )
+  //   setPicture(
+  //   pictureAdd
+  //     )
 
-      console.log(picture)
+  //     console.log(picture)
     
   }
 
   return (
     <div className='tour-container'>
       <div className='tour-header'>
-        <h1>Auschwitz</h1>
+        <h1 onClick={handleOnClick}>Auschwitz</h1>
       </div>
       <div className='tour-main'>
 
@@ -77,9 +78,9 @@ function Auschwitz() {
       <div className='img'>
       {images.map( (item,index) => {
         return(
-          <>
-            <img src={item.img} alt='auschwitz' key={index} onClick={handleOnClick}></img>
-          </>
+         
+            <img src={item.img} alt='auschwitz'  onClick={handleOnClick}></img>
+        
         )
       })}
       </div>
