@@ -7,7 +7,7 @@ import imgAus4 from '../img/aus4.jpg'
 
 function Auschwitz() {
 
-  let [picture , setPicture] = useState('');
+  let [picture , setPicture] = useState(imgAus);
 
   
 
@@ -30,32 +30,18 @@ function Auschwitz() {
 
   ]
 
-  const handleOnClick = (e) =>{
-    
-    
-    const pictureAdd = e.target
-    console.log(e.target.alt.index)
-  
-    
-  //   setPicture(
-  //   pictureAdd
-  //     )
-
-  //     console.log(picture)
-    
-  }
 
   return (
     <div className='tour-container'>
       <div className='tour-header'>
-        <h1 onClick={handleOnClick}>Auschwitz</h1>
+        <h1>Auschwitz</h1>
       </div>
       <div className='tour-main'>
 
 
         <div className='tour-img'>
           
-         {picture}
+         <img src={picture} alt='auschwitz'></img>
         </div>
        
         <div className='tour-info'>
@@ -67,8 +53,7 @@ function Auschwitz() {
           Voluptatem voluptas dolorum eligendi modi laudantium delectus consectetur corporis. Quaerat, ducimus alias. Odit quis laborum consectetur quod, exercitationem quo ipsam qui at, quae eius architecto est esse reiciendis, quas iure?
           Voluptates soluta consequuntur nam ab beatae, optio corporis libero possimus doloremque consequatur vero rem qui reiciendis a sit minus harum vitae, animi atque repellat laborum? Quos eius ipsa placeat libero!
           Eveniet voluptatem totam fugit assumenda. Exercitationem, inventore ipsam. Cumque repellat dignissimos officiis vel error dolor facere quibusdam ex maiores maxime aliquid, distinctio saepe accusantium nisi placeat animi possimus atque eligendi.
-          Quisquam sunt veritatis, expedita error dicta architecto odit. Quis neque corporis ab sequi sit alias velit deserunt illum ex ipsum voluptates asperiores, blanditiis repellendus odit dolores voluptas eum eius minima!
-          Harum ipsum quisquam, illo veniam architecto deleniti sapiente obcaecati, explicabo laboriosam suscipit itaque recusandae voluptatibus cum voluptatum dolore corrupti? Natus repellat quaerat doloribus commodi possimus dolor soluta aperiam molestiae ipsam?
+
           </p>
         </div>
       </div>
@@ -79,7 +64,7 @@ function Auschwitz() {
       {images.map( (item,index) => {
         return(
          
-            <img src={item.img} alt='auschwitz'  onClick={handleOnClick}></img>
+            <img src={item.img} alt='auschwitz'  onClick={ () => setPicture(item.img)}></img>
         
         )
       })}
