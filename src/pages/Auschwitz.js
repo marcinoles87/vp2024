@@ -7,7 +7,7 @@ import imgAus4 from '../img/aus4.jpg'
 
 function Auschwitz() {
 
-  let [picture , setPicture] = useState({imgAus});
+  let [picture , setPicture] = useState('');
 
   
 
@@ -30,16 +30,17 @@ function Auschwitz() {
 
   ]
 
-  const handleOnClick = (e , index) =>{
+  const handleOnClick = (e) =>{
     
-    const ind = e.target
-    const pictureAdd = images[3]
-    console.log(ind)
+    console.log(e.target)
+    const pictureAdd = e.target
+  
     
     setPicture(
-      picture = pictureAdd.img
+    pictureAdd
       )
-     
+
+      console.log(picture)
     
   }
 
@@ -52,7 +53,8 @@ function Auschwitz() {
 
 
         <div className='tour-img'>
-          <img src={picture} alt='' ></img>
+          
+         {picture}
         </div>
        
         <div className='tour-info'>
