@@ -32,13 +32,12 @@ function Auschwitz() {
 
   const handleOnClick = (e , index) =>{
     
-    
-    const pictureAdd = images[0]
-    console.log(e.target)
+    const ind = e.target
+    const pictureAdd = images[3]
+    console.log(ind)
     
     setPicture(
-      
-        picture = pictureAdd.img 
+      picture = pictureAdd.img
       )
      
     
