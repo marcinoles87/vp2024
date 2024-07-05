@@ -64,7 +64,7 @@ function Auschwitz() {
       {images.map( (item,index) => {
         return(
          
-            <img src={item.img} alt='auschwitz'  onClick={ () => setPicture(item.img)}></img>
+            <img src={item.img} key={index} alt='auschwitz'  onClick={ () => setPicture(item.img)}></img>
         
         )
       })}
