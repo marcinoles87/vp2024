@@ -8,9 +8,10 @@ function Contact() {
   return (
     <div className='contact-container'>
       <div className='contact-left'>
-        <h1>Contact</h1>
-        <h2>Phone : 555-555-555</h2>
-        <h2>Email :  viptourcracow@gmail.com</h2>
+       Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo sapiente magnam, labore, maiores possimus, illum ipsam tenetur sequi accusantium similique nostrum cupiditate eaque ducimus. Distinctio aliquam alias officia dolore veniam!
+       Sapiente, corrupti laudantium quos obcaecati quo expedita fugit labore ab voluptatibus magni dignissimos doloribus? Dolorum, natus! Rem nesciunt minus omnis eligendi sequi, repellendus possimus dicta vel, ab, perspiciatis incidunt maxime.
+       Odio eaque quisquam quae non! Quia, facilis distinctio. Optio debitis illo est quidem perspiciatis deleniti expedita dolores alias non voluptates sequi, enim cumque laboriosam numquam quas repellat dolor magni praesentium.
+       Est dicta necessitatibus omnis dolorum excepturi tenetur odio, ipsa molestias illo qui at cupiditate autem eum, corporis mollitia possimus aperiam cum distinctio? Ipsa saepe, quasi culpa doloremque dignissimos enim ab.
       
       </div>
 

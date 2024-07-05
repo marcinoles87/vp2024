@@ -307,7 +307,8 @@
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
-  background-color: var(--main-color);
+  background-image: url('./img/header.jpg');
+  filter: grayscale(0.2);
   margin-top: 50px;
   height: 50vh;
   border-top: 2px solid black;
@@ -318,6 +319,12 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  flex-grow: 1;
+  flex-basis: 35%;
+  padding: 10px;
+  background-color: var(--main-color);
+  filter: opacity(0.8);
+  color:black;
 }
 
 .contact-right{
@@ -325,6 +332,9 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  flex-basis: 20%;
+  background-color: var(--main-color);
+  filter: opacity(0.8);
   
 }
 
