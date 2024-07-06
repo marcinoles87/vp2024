@@ -71,7 +71,7 @@ function Tours() {
   
 
   return (
-    <div className='tours-container'>
+    <div className='tours-container' id='tours'>
     
 
   

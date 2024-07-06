@@ -8,6 +8,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  scroll-behavior: smooth;
 }
 
 /*nav*/
@@ -79,7 +80,13 @@
 
 .nav-elements li{
   margin: 10px;
-  font-size: 1.4rem;
+  font-size: 1.5rem;
+}
+
+.nav-elements li a{
+  text-decoration: none;
+  color:black;
+  font-weight: 800;
 }
 
 /*Link*/
@@ -351,6 +358,11 @@
 .contact-right h2:hover{
   font-size: 30px;
   
+}
+
+.contact-right a{
+  text-decoration: none;
+  color:black;
 }
 
 .contact-right img{

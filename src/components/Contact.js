@@ -6,7 +6,7 @@ import creditCard from '../img/creditcard.png'
 
 function Contact() {
   return (
-    <div className='contact-container'>
+    <div className='contact-container' id='contact'>
       <div className='contact-left'>
        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo sapiente magnam, labore, maiores possimus, illum ipsam tenetur sequi accusantium similique nostrum cupiditate eaque ducimus. Distinctio aliquam alias officia dolore veniam!
        Sapiente, corrupti laudantium quos obcaecati quo expedita fugit labore ab voluptatibus magni dignissimos doloribus? Dolorum, natus! Rem nesciunt minus omnis eligendi sequi, repellendus possimus dicta vel, ab, perspiciatis incidunt maxime.
@@ -14,7 +14,8 @@ function Contact() {
       </div>
 
       <div className='contact-right'>
-        <h2>Tours</h2>
+        <a href="#tours"><h2>Tours</h2></a>
+        
         <h2>Price</h2>
         <h2>Tickets</h2>
       

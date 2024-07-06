@@ -20,7 +20,7 @@ function Main() {
   window.onscroll = startCounter
 
   return (
-    <div className='main-container'>
+    <div className='main-container' id='about'>
       <div className='main-items'>
 
         <div className='main-item'>
