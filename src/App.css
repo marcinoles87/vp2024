@@ -308,6 +308,9 @@
   flex-direction: row;
   justify-content: space-evenly;
   background-image: url('./img/header.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
   filter: grayscale(0.2);
   margin-top: 50px;
   height: 50vh;
@@ -323,8 +326,10 @@
   flex-basis: 35%;
   padding: 10px;
   background-color: var(--main-color);
-  filter: opacity(0.8);
+  filter: opacity(0.9);
   color:black;
+  text-align: center;
+  padding: 20px;
 }
 
 .contact-right{
@@ -334,7 +339,7 @@
   align-items: center;
   flex-basis: 20%;
   background-color: var(--main-color);
-  filter: opacity(0.8);
+  filter: opacity(0.9);
   
 }
 
@@ -351,6 +356,7 @@
 .contact-right img{
   width: 100px;
   height: 100px;
+  cursor: pointer;
 }
 
 /*footer*/

@@ -10,8 +10,6 @@ function Contact() {
       <div className='contact-left'>
        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo sapiente magnam, labore, maiores possimus, illum ipsam tenetur sequi accusantium similique nostrum cupiditate eaque ducimus. Distinctio aliquam alias officia dolore veniam!
        Sapiente, corrupti laudantium quos obcaecati quo expedita fugit labore ab voluptatibus magni dignissimos doloribus? Dolorum, natus! Rem nesciunt minus omnis eligendi sequi, repellendus possimus dicta vel, ab, perspiciatis incidunt maxime.
-       Odio eaque quisquam quae non! Quia, facilis distinctio. Optio debitis illo est quidem perspiciatis deleniti expedita dolores alias non voluptates sequi, enim cumque laboriosam numquam quas repellat dolor magni praesentium.
-       Est dicta necessitatibus omnis dolorum excepturi tenetur odio, ipsa molestias illo qui at cupiditate autem eum, corporis mollitia possimus aperiam cum distinctio? Ipsa saepe, quasi culpa doloremque dignissimos enim ab.
       
       </div>
 
@@ -25,9 +23,14 @@ function Contact() {
       </div>
 
       <div className='contact-right'>
-      <img src={tripLogo} alt='trip-advisor'></img>
+        <a href='https://www.facebook.com/people/Viptourcracow-CracowAuchswitzWieliczka-Salt-Mine/100041922716636/'>
+         <img src={facebookLogo} alt='trip-advisor'></img> 
+        </a>
+      
+        <a href="https://www.tripadvisor.com/Attraction_Review-g274772-d7734909-Reviews-VIP_TOUR_CRACOW-Krakow_Lesser_Poland_Province_Southern_Poland.html">
+          <img src={tripLogo} alt='facebook-logo'></img>
+        </a>
         
-        <img src={facebookLogo} alt='facebook-logo'></img>
       </div>
 
        <div className='contact-right'>
