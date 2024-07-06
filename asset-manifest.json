@@ -1,28 +1,32 @@
 {
   "files": {
-    "main.css": "/vp2024/static/css/main.ed060267.css",
-    "main.js": "/vp2024/static/js/main.8f38927d.js",
+    "main.css": "/vp2024/static/css/main.2c7a9159.css",
+    "main.js": "/vp2024/static/js/main.993f1c02.js",
     "static/media/aus2.jpg": "/vp2024/static/media/aus2.802e2cb55851decf2b38.jpg",
     "static/media/travel.jpg": "/vp2024/static/media/travel.bffe3a9f8b8a107996c5.jpg",
     "static/media/zakopane.jpg": "/vp2024/static/media/zakopane.6c293f8634acfbeaa3c0.jpg",
     "static/media/header.jpg": "/vp2024/static/media/header.58f97a7c9372652e24c0.jpg",
     "static/media/aus3.jpg": "/vp2024/static/media/aus3.9d567a8978901468278d.jpg",
     "static/media/aus.jpg": "/vp2024/static/media/aus.ec6840e5b48a0a042ef1.jpg",
+    "static/media/cra4.jpg": "/vp2024/static/media/cra4.502656b6be2d8f4bb07f.jpg",
+    "static/media/cra.jpg": "/vp2024/static/media/cra.2643424ab94d7cad2ea9.jpg",
     "static/media/wieliczka.jpg": "/vp2024/static/media/wieliczka.7a2b98d9761124b157ac.jpg",
     "static/media/aus4.jpg": "/vp2024/static/media/aus4.d3ebeed8b333bc9f94e7.jpg",
     "static/media/energy.jpg": "/vp2024/static/media/energy.f4415cf10fba6e54e740.jpg",
+    "static/media/cra3.jpg": "/vp2024/static/media/cra3.6025c512a3b676656118.jpg",
     "static/media/mainlogo.jpg": "/vp2024/static/media/mainlogo.9728c753dbeec68a2427.jpg",
+    "static/media/cra2.jpg": "/vp2024/static/media/cra2.76e4fc8c4a2b4cbb34fc.jpg",
     "static/media/czestochowa.jpg": "/vp2024/static/media/czestochowa.846ac244829c540682fa.jpg",
     "static/media/logo.png": "/vp2024/static/media/logo.b9330e4427e704093d25.png",
     "static/media/creditcard.png": "/vp2024/static/media/creditcard.26542093dd7f08b53821.png",
     "static/media/tripadvisor.png": "/vp2024/static/media/tripadvisor.45ac34d0ecfbc5382699.png",
     "static/media/facebookLogo.png": "/vp2024/static/media/facebookLogo.2994cb6f4cb1ada37743.png",
     "index.html": "/vp2024/index.html",
-    "main.ed060267.css.map": "/vp2024/static/css/main.ed060267.css.map",
-    "main.8f38927d.js.map": "/vp2024/static/js/main.8f38927d.js.map"
+    "main.2c7a9159.css.map": "/vp2024/static/css/main.2c7a9159.css.map",
+    "main.993f1c02.js.map": "/vp2024/static/js/main.993f1c02.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed060267.css",
-    "static/js/main.8f38927d.js"
+    "static/css/main.2c7a9159.css",
+    "static/js/main.993f1c02.js"
   ]
 }
