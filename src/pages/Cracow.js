@@ -44,15 +44,7 @@ function Cracow() {
         </div>
        
         <div className='tour-info'>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat quas dolor sed dolorem accusantium quam rem voluptates. Maiores tenetur cumque necessitatibus in iusto dicta, obcaecati, consectetur beatae vel ad quia?
-          Dolores quas sequi, assumenda eius reiciendis qui saepe deleniti necessitatibus delectus facilis nobis, tenetur voluptatem ut amet aliquid quos distinctio molestiae iste mollitia ullam voluptate iure. Rem accusantium porro et!
-          Mollitia atque voluptatem nobis vitae numquam, vel pariatur a quae ullam suscipit laborum reiciendis voluptatum iste rem, dolor amet cum ex sit. Cumque ex atque, eius voluptatem maiores a pariatur?
-          Quaerat quod vel id maxime error quas dolorem quae, magnam non nostrum. Incidunt saepe dolorum ratione fugit dicta ipsum explicabo provident voluptatum repellat quos sint sed velit, officia dignissimos maxime.
-          Possimus reprehenderit voluptatibus recusandae illum mollitia cumque animi rerum explicabo nesciunt! Minima quae deleniti quam, aspernatur accusantium blanditiis est odit a aliquid eius sequi maiores veniam? Expedita earum nostrum dolorum.
-          Voluptatem voluptas dolorum eligendi modi laudantium delectus consectetur corporis. Quaerat, ducimus alias. Odit quis laborum consectetur quod, exercitationem quo ipsam qui at, quae eius architecto est esse reiciendis, quas iure?
-          Voluptates soluta consequuntur nam ab beatae, optio corporis libero possimus doloremque consequatur vero rem qui reiciendis a sit minus harum vitae, animi atque repellat laborum? Quos eius ipsa placeat libero!
-          Eveniet voluptatem totam fugit assumenda. Exercitationem, inventore ipsam. Cumque repellat dignissimos officiis vel error dolor facere quibusdam ex maiores maxime aliquid, distinctio saepe accusantium nisi placeat animi possimus atque eligendi.
-
+          <p>The Ważyn Chamber was named after the name of the administrator (podżupek) Andrzej Ważyński. The deepness of this chamber, the biggest in Bochnia Salt Mine, is 248m, its length - 255m, its maximum width 14,4m and maximum height 7,2m. The chamber uses no supporting pillars. Salt from Ważyn chamber was extracted from 1697 until the 1950s. For the purposes of creating a sanatorium these old pits were expanded with the LHD unit machine (a loading-hauling-dumping machine). These works took place until 1984, and thanks to them the Ernest Chute from the 17th century so impressively presents itself on the stripped chamber's roof. The Ważyn chamber has a specific microclimate, with a constant temperature between 14–16 °C (57–61 °F), high humidity (about 70%) and favourable ionisation of the air - saturated, at the same time, by sodium chloride and valuable microelements, like: magnesium, manganese and calcium. The air in the chamber destinguishes itself by its purity. The chamber is equipped with beds, up to 300 people can sleep in here. The other parts of Ważyn Chamber are: fields for playing volleyball, basketball and handball, restaurant and conference facilities.
           </p>
         </div>
       </div>
