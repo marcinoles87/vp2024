@@ -407,6 +407,10 @@
   
 }
 
+.tour-info{
+  padding: 50px;
+}
+
 .tour-img{
   width: 50%;
  
@@ -419,8 +423,21 @@
   width: 20%;
 }
 
-.tour-rate p{
+.rate{
+  border: 1px solid var(--font-color);
+  background-color: rgb(49, 49, 255);
+  color:white;
+  padding: 10px;
+}
 
+.opinion{
+  font-weight: 800;
+}
+
+.map{
+  width: 100%;
+  object-fit: contain;
+  padding: 10px;
 }
 
 .tour-img img{

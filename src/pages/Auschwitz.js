@@ -5,6 +5,8 @@ import imgAus2 from '../img/aus2.jpg'
 import imgAus3 from '../img/aus3.jpg'
 import imgAus4 from '../img/aus4.jpg'
 
+import mapAus from '../img/ausMap.png'
+
 function Auschwitz() {
 
   let [picture , setPicture] = useState(imgAus);
@@ -52,9 +54,10 @@ function Auschwitz() {
 
         <div className='tour-rate'>
           <h3>Client Rate :</h3>
-          <p><span style={{backgroundColor:'lightBlue'}}> 8.9</span></p>
-          <p>Opinion</p>
+          <p className='rate'> 8.9</p>
+          <p className='opinion'>Opinion</p>
           <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sit, necessitatibus? Itaque amet quasi omnis vitae consequuntur repellendus quos sit, minus modi exercitationem delectus, eveniet minima, vero velit vel ea? Obcaecati?</p>
+          <a href="https://www.bing.com/search?pglt=2211&q=auschwitz+mapa&cvid=bc9a2a957eef435e88260c5963655a9d&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQNIBCDY2MzNqMGoxqAIAsAIA&FORM=ANSPA1&PC=HCTS"><img src={mapAus} className='map'></img></a>
         </div>
       </div>
 
