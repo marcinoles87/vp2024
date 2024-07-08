@@ -46,11 +46,15 @@ function Auschwitz() {
        
         <div className='tour-info'>
             <p>Concentracion and exterminatnion camp Auschwitz - Birkenau was the place of torment of almost 1,5 milion people , mostly Jewish , Polish and Gypsy . This is the place where we bow and pay our respect to all those who were killed by the Nazis. Auschwitz-Birkenau is the symbol of doom and the only concetracion camp on the UNESCO World Heritage list
-
-
-
-We offer private transport and assistance at destination. The drive from Krakow takes 80 minutes. Our driver will help you to buy the tickets and find a guide. This tour usually takes about 6 hours (including the drive), but taking into consideration the seriousness of this place, you decide how much time you want to spend on touring. The prize includes transport, the wait, tolls, parking fee. It does not include the entrance free.
+            We offer private transport and assistance at destination. The drive from Krakow takes 80 minutes. Our driver will help you to buy the tickets and find a guide. This tour usually takes about 6 hours (including the drive), but taking into consideration the seriousness of this place, you decide how much time you want to spend on touring. The prize includes transport, the wait, tolls, parking fee. It does not include the entrance free.
           </p>
+        </div>
+
+        <div className='tour-rate'>
+          <h3>Client Rate :</h3>
+          <p><span style={{backgroundColor:'lightBlue'}}> 8.9</span></p>
+          <p>Opinion</p>
+          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sit, necessitatibus? Itaque amet quasi omnis vitae consequuntur repellendus quos sit, minus modi exercitationem delectus, eveniet minima, vero velit vel ea? Obcaecati?</p>
         </div>
       </div>
 
