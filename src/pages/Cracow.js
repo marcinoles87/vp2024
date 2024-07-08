@@ -5,6 +5,8 @@ import imgCra2 from '../img/cra2.jpg'
 import imgCra3 from '../img/cra3.jpg'
 import imgCra4 from '../img/cra4.jpg'
 
+import mapAus from '../img/ausMap.png'
+
 function Cracow() {
   let [picture , setPicture] = useState(imgCra);
 
@@ -49,6 +51,13 @@ function Cracow() {
 
 We offer private transport and assistance at destination. Our driver will help you to buy the tickets and find the most attractive places. This tour has no time limit, you decide how much time you want to spend on touring. The prize includes transport and the wait. It does not include the entrances fees.
           </p>
+        </div>
+        <div className='tour-rate'>
+          <h3>Client Rate :</h3>
+          <p className='rate'> 8.9</p>
+          <p className='opinion'>Opinion</p>
+          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sit, necessitatibus? Itaque amet quasi omnis vitae consequuntur repellendus quos sit, minus modi exercitationem delectus, eveniet minima, vero velit vel ea? Obcaecati?</p>
+          <a href="https://www.bing.com/search?pglt=2211&q=auschwitz+mapa&cvid=bc9a2a957eef435e88260c5963655a9d&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQNIBCDY2MzNqMGoxqAIAsAIA&FORM=ANSPA1&PC=HCTS"><img src={mapAus} className='map'></img></a>
         </div>
       </div>
 
