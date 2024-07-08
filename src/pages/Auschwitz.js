@@ -45,15 +45,11 @@ function Auschwitz() {
         </div>
        
         <div className='tour-info'>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat quas dolor sed dolorem accusantium quam rem voluptates. Maiores tenetur cumque necessitatibus in iusto dicta, obcaecati, consectetur beatae vel ad quia?
-          Dolores quas sequi, assumenda eius reiciendis qui saepe deleniti necessitatibus delectus facilis nobis, tenetur voluptatem ut amet aliquid quos distinctio molestiae iste mollitia ullam voluptate iure. Rem accusantium porro et!
-          Mollitia atque voluptatem nobis vitae numquam, vel pariatur a quae ullam suscipit laborum reiciendis voluptatum iste rem, dolor amet cum ex sit. Cumque ex atque, eius voluptatem maiores a pariatur?
-          Quaerat quod vel id maxime error quas dolorem quae, magnam non nostrum. Incidunt saepe dolorum ratione fugit dicta ipsum explicabo provident voluptatum repellat quos sint sed velit, officia dignissimos maxime.
-          Possimus reprehenderit voluptatibus recusandae illum mollitia cumque animi rerum explicabo nesciunt! Minima quae deleniti quam, aspernatur accusantium blanditiis est odit a aliquid eius sequi maiores veniam? Expedita earum nostrum dolorum.
-          Voluptatem voluptas dolorum eligendi modi laudantium delectus consectetur corporis. Quaerat, ducimus alias. Odit quis laborum consectetur quod, exercitationem quo ipsam qui at, quae eius architecto est esse reiciendis, quas iure?
-          Voluptates soluta consequuntur nam ab beatae, optio corporis libero possimus doloremque consequatur vero rem qui reiciendis a sit minus harum vitae, animi atque repellat laborum? Quos eius ipsa placeat libero!
-          Eveniet voluptatem totam fugit assumenda. Exercitationem, inventore ipsam. Cumque repellat dignissimos officiis vel error dolor facere quibusdam ex maiores maxime aliquid, distinctio saepe accusantium nisi placeat animi possimus atque eligendi.
+            <p>Concentracion and exterminatnion camp Auschwitz - Birkenau was the place of torment of almost 1,5 milion people , mostly Jewish , Polish and Gypsy . This is the place where we bow and pay our respect to all those who were killed by the Nazis. Auschwitz-Birkenau is the symbol of doom and the only concetracion camp on the UNESCO World Heritage list
 
+
+
+We offer private transport and assistance at destination. The drive from Krakow takes 80 minutes. Our driver will help you to buy the tickets and find a guide. This tour usually takes about 6 hours (including the drive), but taking into consideration the seriousness of this place, you decide how much time you want to spend on touring. The prize includes transport, the wait, tolls, parking fee. It does not include the entrance free.
           </p>
         </div>
       </div>
