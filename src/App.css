@@ -137,7 +137,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  font-size: 3rem;
+  /* font-size: 3rem; */
   background-color: rgba(0, 0, 0, 0.582);
   color:white;
  
@@ -145,6 +145,7 @@
 
 .header-info h1{
   margin-top:10%;
+  font-size: 5.5rem;
 
 }
 
@@ -518,17 +519,17 @@
 
    .nav-elements{
     flex-direction: column;
+    padding: 0;
    }
 
    .header-container{
     height: 50vh;
    }
 
-   .header-info{
-    font-size: 1.5rem;
-   }
+   
 
    .header-info h1{
+    font-size: 2.5rem;
     margin-top: 20%;
    }
 
@@ -556,6 +557,7 @@
    .main-about p{
    text-align: center;
    font-size: 1.2rem;
+   padding: 25px;
    }
 
    .main-img{
@@ -563,6 +565,11 @@
    height: auto;
    margin: 10px;
    
+   }
+
+   .main-img img{
+    margin-top: 30px;
+    border-radius: 10px;
    }
 
    .tours-grid{
