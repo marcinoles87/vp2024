@@ -465,6 +465,29 @@
 }
 
 
+/* price*/
+
+.price-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url('./img/header.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: scroll;
+  filter: grayscale(1);
+}
+
+.price-container h1{
+  text-align: center;
+  padding: 5px;
+  width: 100%;
+  border-bottom: 2px solid var(--main-color);
+}
+
+
 
 @media screen and (max-width:460px) {
   
