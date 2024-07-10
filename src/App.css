@@ -476,12 +476,13 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-attachment: scroll;
-  filter: grayscale(1);
+  margin: auto 50px;
 }
 
 .price-container h1{
   text-align: center;
+  color:var(--main-color);
+  text-shadow: 2px 2px black;
   padding: 5px;
   width: 100%;
   border-bottom: 2px solid var(--main-color);
