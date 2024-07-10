@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/vp2024/static/css/main.450ef8f6.css",
-    "main.js": "/vp2024/static/js/main.2c59d11a.js",
+    "main.css": "/vp2024/static/css/main.9f92769e.css",
+    "main.js": "/vp2024/static/js/main.8d522067.js",
     "static/media/aus2.jpg": "/vp2024/static/media/aus2.802e2cb55851decf2b38.jpg",
     "static/media/travel.jpg": "/vp2024/static/media/travel.bffe3a9f8b8a107996c5.jpg",
     "static/media/zakopane.jpg": "/vp2024/static/media/zakopane.6c293f8634acfbeaa3c0.jpg",
@@ -25,11 +25,11 @@
     "static/media/facebookLogo.png": "/vp2024/static/media/facebookLogo.2994cb6f4cb1ada37743.png",
     "static/media/wie2.jpg": "/vp2024/static/media/wie2.37e390ede931823cbb06.jpg",
     "index.html": "/vp2024/index.html",
-    "main.450ef8f6.css.map": "/vp2024/static/css/main.450ef8f6.css.map",
-    "main.2c59d11a.js.map": "/vp2024/static/js/main.2c59d11a.js.map"
+    "main.9f92769e.css.map": "/vp2024/static/css/main.9f92769e.css.map",
+    "main.8d522067.js.map": "/vp2024/static/js/main.8d522067.js.map"
   },
   "entrypoints": [
-    "static/css/main.450ef8f6.css",
-    "static/js/main.2c59d11a.js"
+    "static/css/main.9f92769e.css",
+    "static/js/main.8d522067.js"
   ]
 }
