@@ -3,6 +3,7 @@ import React from 'react'
 import tripLogo from '../img/tripadvisor.png'
 import facebookLogo from '../img/facebookLogo.png'
 import creditCard from '../img/creditcard.png'
+import { Link } from 'react-router-dom'
 
 function Contact() {
   return (
@@ -16,7 +17,7 @@ function Contact() {
       <div className='contact-right'>
         <a href="#tours"><h2>Tours</h2></a>
         
-        <h2>Price</h2>
+        <h2><Link to={'/price'}>Price</Link></h2>
         <h2>Tickets</h2>
       
         
