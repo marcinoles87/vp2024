@@ -482,7 +482,7 @@
 .price-container h1{
   text-align: center;
   color:var(--main-color);
-  text-shadow: 2px 2px black;
+  text-shadow: 2px 2px 5px black;
   padding: 5px;
   width: 100%;
   border-bottom: 2px solid var(--main-color);
