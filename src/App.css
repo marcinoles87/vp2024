@@ -565,6 +565,20 @@
    
    }
 
+   .tours-grid{
+   flex-direction: column;
+   }
+
+   .tour-item{
+    width: auto;
+   }
+
+   .contact-container{
+    flex-direction: column;
+    height: auto;
+   
+   }
+
   
 } 
   
