@@ -548,11 +548,22 @@
     padding: 10px;
    }
 
-   
-    
+   .main-about{
+   flex-direction: column;
 
-   
+   }
 
+   .main-about p{
+   text-align: center;
+   font-size: 1.2rem;
+   }
+
+   .main-img{
+   width: auto;
+   height: auto;
+   margin: 10px;
+   
+   }
 
   
 } 
