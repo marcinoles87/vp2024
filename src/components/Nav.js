@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 import logo from '../img/logo.png'
 
@@ -16,7 +17,8 @@ function Nav() {
          
           <li><a href='#about'>About us</a></li>
           <li><a href='#tours'>Tours</a></li>
-          <li><a href='#contact'>Price</a></li>
+          <li><Link to={'/price'} className='link'>Price</Link>
+          </li>
           <li><a href='#contact'>Transfer</a></li>
           <li><a href='#contact'>Contact</a></li>
         </ul>
