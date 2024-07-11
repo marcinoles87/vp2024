@@ -1,11 +1,15 @@
 {
   "files": {
-    "main.css": "/vp2024/static/css/main.9f92769e.css",
-    "main.js": "/vp2024/static/js/main.8d522067.js",
+    "main.css": "/vp2024/static/css/main.097cf95d.css",
+    "main.js": "/vp2024/static/js/main.547386d9.js",
+    "static/media/czeImg5.jpg": "/vp2024/static/media/czeImg5.c13e54a2f026788696a0.jpg",
+    "static/media/czeImg4.jpg": "/vp2024/static/media/czeImg4.34ee3a58b837bf459c13.jpg",
     "static/media/aus2.jpg": "/vp2024/static/media/aus2.802e2cb55851decf2b38.jpg",
+    "static/media/czeImg3.jpg": "/vp2024/static/media/czeImg3.250a68a45972bd932d29.jpg",
     "static/media/travel.jpg": "/vp2024/static/media/travel.bffe3a9f8b8a107996c5.jpg",
     "static/media/zakopane.jpg": "/vp2024/static/media/zakopane.6c293f8634acfbeaa3c0.jpg",
     "static/media/header.jpg": "/vp2024/static/media/header.58f97a7c9372652e24c0.jpg",
+    "static/media/czeImg2.jpg": "/vp2024/static/media/czeImg2.d52aa8ccba08011e2705.jpg",
     "static/media/ausMap.png": "/vp2024/static/media/ausMap.f24d2107553c358d118f.png",
     "static/media/aus3.jpg": "/vp2024/static/media/aus3.9d567a8978901468278d.jpg",
     "static/media/aus.jpg": "/vp2024/static/media/aus.ec6840e5b48a0a042ef1.jpg",
@@ -18,6 +22,7 @@
     "static/media/cra3.jpg": "/vp2024/static/media/cra3.6025c512a3b676656118.jpg",
     "static/media/mainlogo.jpg": "/vp2024/static/media/mainlogo.9728c753dbeec68a2427.jpg",
     "static/media/cra2.jpg": "/vp2024/static/media/cra2.76e4fc8c4a2b4cbb34fc.jpg",
+    "static/media/czeImg.jpg": "/vp2024/static/media/czeImg.4dbc185909b9908187af.jpg",
     "static/media/czestochowa.jpg": "/vp2024/static/media/czestochowa.846ac244829c540682fa.jpg",
     "static/media/logo.png": "/vp2024/static/media/logo.b9330e4427e704093d25.png",
     "static/media/creditcard.png": "/vp2024/static/media/creditcard.26542093dd7f08b53821.png",
@@ -25,11 +30,11 @@
     "static/media/facebookLogo.png": "/vp2024/static/media/facebookLogo.2994cb6f4cb1ada37743.png",
     "static/media/wie2.jpg": "/vp2024/static/media/wie2.37e390ede931823cbb06.jpg",
     "index.html": "/vp2024/index.html",
-    "main.9f92769e.css.map": "/vp2024/static/css/main.9f92769e.css.map",
-    "main.8d522067.js.map": "/vp2024/static/js/main.8d522067.js.map"
+    "main.097cf95d.css.map": "/vp2024/static/css/main.097cf95d.css.map",
+    "main.547386d9.js.map": "/vp2024/static/js/main.547386d9.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f92769e.css",
-    "static/js/main.8d522067.js"
+    "static/css/main.097cf95d.css",
+    "static/js/main.547386d9.js"
   ]
 }
