@@ -473,17 +473,13 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-image: url('./img/header.jpg');
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
   margin: auto 50px;
 }
 
 .price-container h1{
   text-align: center;
   color:var(--main-color);
-  text-shadow: 2px 2px 5px black;
+  text-shadow: 2px 2px 3px black;
   padding: 5px;
   width: 100%;
   border-bottom: 2px solid var(--main-color);

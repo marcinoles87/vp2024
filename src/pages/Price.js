@@ -7,7 +7,7 @@ function Price() {
     <div className='price-container'>
 
         <h1> Single group trip</h1>
-    <Table striped bordered hover variant='dark'>
+    <Table striped bordered hover variant='dark' responsive='sm'>
       <thead>
         <tr>
           
@@ -24,40 +24,24 @@ function Price() {
       </thead>
       <tbody>
         <tr>
-          <td>1</td>
-          <td>Mark</td>
-          <td>Otto</td>
-          <td>@mdo</td>
-          <td>@mdo</td>
-          <td>@mdo</td>
-          <td>@mdo</td>
-          <td>@mdo</td>
+          <td>Auschwitz</td>
+          
+          
         </tr>
         <tr>
-          <td>2</td>
-          <td>Jacob</td>
-          <td>Thornton</td>
-          <td>@fat</td>
-          <td>@fat</td>
-          <td>@fat</td>
-          <td>@fat</td>
-          <td>@fat</td>
+          <td>Saltmine Wieliczka</td>
+         
         </tr>
-        <tr>
-          <td>3</td>
-          <td>Larry the Bird</td>
-          <td>@twitter</td>
-          <td>@twitter</td>
-          <td>@twitter</td>
-          <td>@twitter</td>
-          <td>@twitter</td>
-          <td>@twitter</td>
-        </tr>
+        <tr> <td>Cracow Town</td> </tr>
+        <tr> <td>Zakopane</td> </tr>
+        <tr> <td>Energylandia</td> </tr>
+        <tr> <td>Czestochowa</td> </tr>
+        
       </tbody>
     </Table>
 
     <h1> Shared group trip</h1>
-    <Table striped bordered hover variant='dark'>
+    <Table striped bordered hover variant='dark' responsive='lg'>
       <thead>
         <tr>
           <th>#</th>
@@ -79,11 +63,7 @@ function Price() {
           <td>Thornton</td>
           <td>@fat</td>
         </tr>
-        <tr>
-          <td>3</td>
-          <td colSpan={2}>Larry the Bird</td>
-          <td>@twitter</td>
-        </tr>
+      
       </tbody>
     </Table>
 
@@ -110,11 +90,7 @@ function Price() {
           <td>Thornton</td>
           <td>@fat</td>
         </tr>
-        <tr>
-          <td>3</td>
-          <td colSpan={2}>Larry the Bird</td>
-          <td>@twitter</td>
-        </tr>
+      
       </tbody>
     </Table>
     </div>
