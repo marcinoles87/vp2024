@@ -5,6 +5,7 @@ import czeImg2 from '../img/czeImg2.jpg'
 import czeImg3 from '../img/czeImg3.jpg'
 import czeImg4 from '../img/czeImg4.jpg'
 import czeImg5 from '../img/czeImg5.jpg'
+import ausMap from '../img/ausMap.png'
 
 function Czestochowa() {
 
@@ -52,10 +53,10 @@ We offer private transport and assistance at destination. The drive from Krakow 
 
         <div className='tour-rate'>
         <h3>Client Rate :</h3>
-        <p className='rate'> 8.9</p>
+        <p className='rate'> 7.8</p>
         <p className='opinion'>Opinion</p>
         <p>" Super miejsce , bardzo orginalne i dobrze zachowane . Warto zwiedzać o każdej porze roku"</p>
-        <a href="https://www.bing.com/search?pglt=2211&q=auschwitz+mapa&cvid=bc9a2a957eef435e88260c5963655a9d&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQNIBCDY2MzNqMGoxqAIAsAIA&FORM=ANSPA1&PC=HCTS"><img src={czeImg5} className='map'></img></a>
+        <a href="https://www.bing.com/search?pglt=2211&q=auschwitz+mapa&cvid=bc9a2a957eef435e88260c5963655a9d&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQNIBCDY2MzNqMGoxqAIAsAIA&FORM=ANSPA1&PC=HCTS"><img src={ausMap} className='map'></img></a>
       </div>
       </div>
 
