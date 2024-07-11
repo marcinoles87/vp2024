@@ -12,8 +12,7 @@ function Price() {
         <tr>
           
           <th>Destination</th>
-          <th>Person</th>
-          <th>1</th>
+          <th>1/person</th>
           <th>2</th>
           <th>3</th>
           <th>4</th>
@@ -25,6 +24,12 @@ function Price() {
       <tbody>
         <tr>
           <td>Auschwitz</td>
+          <td>100E</td>
+          <td>90E</td>
+          <td>45E</td>
+          <td>30E</td>
+          <td>24E</td>
+          <td>20E</td>
           
           
         </tr>
@@ -68,7 +73,7 @@ function Price() {
     </Table>
 
     <h1> Transfer</h1>
-    <Table striped bordered hover variant='dark'>
+    <Table striped bordered hover variant='dark' responsive='sm'>
       <thead>
         <tr>
           <th>#</th>

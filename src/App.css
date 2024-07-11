@@ -413,7 +413,7 @@
 }
 
 .tour-img{
-  width: 50%;
+  width: 40%;
  
 
 }
@@ -457,11 +457,11 @@
   display: flex;
   flex-direction: row;
   gap:10px;
-  height: 35vh;
+  height: 27vh;
 }
 
 .img img{
-  width: 24%;
+  width: 25%;
   object-fit: cover;
 }
 
