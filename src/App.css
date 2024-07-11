@@ -373,6 +373,10 @@
   cursor: pointer;
 }
 
+.contact-right h3{
+  text-align: center;
+}
+
 /*footer*/
 
 .footer-container{

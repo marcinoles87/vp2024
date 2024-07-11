@@ -36,7 +36,6 @@ function Contact() {
       </div>
 
        <div className='contact-right'>
-        <h2>Payment</h2>
         <h3>We accept all credit card</h3>
         <img src={creditCard} alt="credit-card"></img>
 
