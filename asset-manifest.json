@@ -1,8 +1,12 @@
 {
   "files": {
-    "main.css": "/vp2024/static/css/main.097cf95d.css",
-    "main.js": "/vp2024/static/js/main.547386d9.js",
+    "main.css": "/vp2024/static/css/main.2ecf4311.css",
+    "main.js": "/vp2024/static/js/main.52228f3b.js",
+    "static/media/zakImg5.jpg": "/vp2024/static/media/zakImg5.4793a2ef5b8c0355f72d.jpg",
+    "static/media/zakImg2.jpg": "/vp2024/static/media/zakImg2.1322ed8d33fc14ed960e.jpg",
+    "static/media/zakImg3.jpg": "/vp2024/static/media/zakImg3.79837d9829c930272541.jpg",
     "static/media/czeImg5.jpg": "/vp2024/static/media/czeImg5.c13e54a2f026788696a0.jpg",
+    "static/media/zakImg4.jpg": "/vp2024/static/media/zakImg4.5342ccf9aa658326cbda.jpg",
     "static/media/czeImg4.jpg": "/vp2024/static/media/czeImg4.34ee3a58b837bf459c13.jpg",
     "static/media/aus2.jpg": "/vp2024/static/media/aus2.802e2cb55851decf2b38.jpg",
     "static/media/czeImg3.jpg": "/vp2024/static/media/czeImg3.250a68a45972bd932d29.jpg",
@@ -30,11 +34,11 @@
     "static/media/facebookLogo.png": "/vp2024/static/media/facebookLogo.2994cb6f4cb1ada37743.png",
     "static/media/wie2.jpg": "/vp2024/static/media/wie2.37e390ede931823cbb06.jpg",
     "index.html": "/vp2024/index.html",
-    "main.097cf95d.css.map": "/vp2024/static/css/main.097cf95d.css.map",
-    "main.547386d9.js.map": "/vp2024/static/js/main.547386d9.js.map"
+    "main.2ecf4311.css.map": "/vp2024/static/css/main.2ecf4311.css.map",
+    "main.52228f3b.js.map": "/vp2024/static/js/main.52228f3b.js.map"
   },
   "entrypoints": [
-    "static/css/main.097cf95d.css",
-    "static/js/main.547386d9.js"
+    "static/css/main.2ecf4311.css",
+    "static/js/main.52228f3b.js"
   ]
 }
