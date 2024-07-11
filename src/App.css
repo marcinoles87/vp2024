@@ -582,6 +582,33 @@
    
    }
 
+
+   .tour-main{
+    flex-direction: column;
+   }
+
+   .tour-img{
+    width: auto;
+   }
+
+   .tour-info{
+    width: auto;
+    text-align: center;
+   }
+
+   .tour-rate{
+    width: auto;
+   }
+
+   .img{
+    flex-direction: column;
+    
+   }
+
+   .img img{
+    width: 100%;
+   }
+
   
 } 
   
