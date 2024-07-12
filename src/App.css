@@ -270,7 +270,7 @@
 }
 
 .count-item p{
-  font-size: 17px;
+  font-size: 2rem;
 }
 
 /* tours  */
@@ -557,6 +557,8 @@
     padding: 10px;
    }
 
+   
+
    .main-about{
    flex-direction: column;
 
@@ -628,6 +630,14 @@
 
    .img img{
     width: 100%;
+   }
+
+   .count-item p{
+    font-size: 13px;
+   }
+
+   .count-item span{
+    font-size: 1.5rem;
    }
 
   
