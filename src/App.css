@@ -120,7 +120,7 @@
 
 .header-container{
   width: 100vw;
-  height: 100vh;
+  height: 80vh;
   background-image: url('./img/header.jpg');
   background-repeat: no-repeat;
   background-position: center;
@@ -217,7 +217,7 @@
 
 .main-item p{
   color:var(--font-color);
-  font-size: 18px;
+  font-size: 14px;
 }
 
 .main-about{
@@ -267,6 +267,10 @@
   box-shadow: 2px 2px 2px black;
   color:white;
   text-align: center;
+}
+
+.count-item p{
+  font-size: 17px;
 }
 
 /* tours  */
@@ -494,14 +498,18 @@
 @media screen and (max-width:460px) {
   
    .head-nav-container ul{
-      justify-content: space-around;
+      /* justify-content: space-around; */
       align-items: center;
       
    }
 
    .head-nav-container ul li{
     border: none;
-    font-size: 10px;
+    font-size: 12px;
+   }
+
+   .head-nav-container ul :nth-child(1){
+    flex-basis: 40%;
    }
 
    .nav-logo{
