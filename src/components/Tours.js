@@ -84,7 +84,7 @@ function Tours() {
             <div className='tour-item' key={index}>
               <img src={item.img} alt={item.nazwa}></img>
               <h2>{item.nazwa}</h2>
-              <p>{item.opis.slice(0,270)} ...</p>
+              <p>{item.opis.slice(0,260)} ...</p>
               <p><span style={{fontWeight:'800' , fontSize:'1.4rem'}}></span></p>
               <div className='tour-link'>
                   <Link to={'/'+item.link} className='link'>More</Link>

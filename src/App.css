@@ -282,6 +282,10 @@
   align-items: center;
 }
 
+.tours-container h1{
+  margin-top: 50px;
+}
+
 .tours-grid{
   margin-top:50px;
   margin-bottom: 50px;
