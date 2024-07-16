@@ -436,6 +436,10 @@
   width: 20%;
 }
 
+.tour-rate p{
+  font-size: 0.9rem;
+}
+
 .rate{
   border: 1px solid var(--font-color);
   background-color: rgb(49, 49, 255);
