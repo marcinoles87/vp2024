@@ -489,7 +489,8 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin: auto 50px;
+  /* margin: auto 50px; */
+  background-color: #818181;
 }
 
 .price-container h1{
@@ -646,6 +647,11 @@
 
    .count-item span{
     font-size: 1.5rem;
+   }
+
+   .price-container{
+    font-size: small;
+    margin: auto;
    }
 
   
