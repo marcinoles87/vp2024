@@ -2,6 +2,57 @@ import React from 'react'
 import Table from 'react-bootstrap/Table'
 
 function Price() {
+
+  const shared = [
+    {
+      destination : 'Auschwitz',
+      price1 : '100E',
+      price2 : '30E',
+      price3 : '28E'
+    },
+    
+    {
+      destination : 'Saltmine',
+      price1 : '100E',
+      price2 : '30E',
+      price3 : '28E'
+    },
+
+    {
+      destination : 'Cracow',
+      price1 : '90E',
+      price2 : '30E',
+      price3 : '28E'
+    },
+
+    {
+      destination : 'Czestochowa',
+      price1 : '100E',
+      price2 : '30E',
+      price3 : '28E'
+    },
+
+    {
+      destination : 'Energylandia',
+      price1 : '100E',
+      price2 : '30E',
+      price3 : '28E'
+    }
+
+
+
+    
+  ]
+
+    const th = [
+      {
+        row1 : 'Destinatnion' ,
+        row2 : '1/person' ,
+        row3 : '2-4' ,
+        row4 : '4-7'
+      }
+    ]
+  
     
   return (
     <div className='price-container'>
@@ -49,25 +100,29 @@ function Price() {
     <Table striped bordered hover variant='dark' responsive='lg'>
       <thead>
         <tr>
-          <th>#</th>
-          <th>First Name</th>
-          <th>Last Name</th>
-          <th>Username</th>
+          {th.map( (item , index) => {
+            return(
+              <>
+               <th>{item.row1}</th>
+               <th>{item.row2}</th>
+               <th>{item.row3}</th>
+               <th>{item.row4}</th>
+              </>
+            )
+          })}
         </tr>
       </thead>
       <tbody>
-        <tr>
-          <td>1</td>
-          <td>Mark</td>
-          <td>Otto</td>
-          <td>@mdo</td>
-        </tr>
-        <tr>
-          <td>2</td>
-          <td>Jacob</td>
-          <td>Thornton</td>
-          <td>@fat</td>
-        </tr>
+        {shared.map( (item ,index) => {
+          return(
+            <tr>
+              <td>{item.destination}</td>
+              <td>{item.price1}</td>
+              <td>{item.price2}</td>
+              <td>{item.price3}</td>
+            </tr>
+          )
+        })}
       
       </tbody>
     </Table>
