@@ -18,7 +18,7 @@ function Contact() {
         <a href="#tours"><h2>Tours</h2></a>
         
         <h2><Link to={'/price'}>Price</Link></h2>
-        <h2>Tickets</h2>
+        <h2><Link to={'/tickets'}>Tickets</Link></h2>
       
         
     

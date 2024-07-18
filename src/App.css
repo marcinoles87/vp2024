@@ -502,6 +502,32 @@
   border-bottom: 2px solid var(--main-color);
 }
 
+.ticket-container{
+  display: flex;
+}
+
+.ticket-header{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.ticket-img{
+  flex-basis: 50%;
+  height: 100vh;
+}
+
+.ticket-info{
+  flex-basis: 50%;
+}
+
+.ticket-img img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
 
 
 @media screen and (max-width:460px) {

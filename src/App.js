@@ -17,6 +17,7 @@ import Czestochowa from './pages/Czestochowa';
 import Energylandia from './pages/Energylandia';
 import Wieliczka from './pages/Wieliczka';
 import Price  from './pages/Price';
+import Ticket from './pages/Ticket';
 
 
 function App() {
@@ -49,6 +50,7 @@ function App() {
         <Route path='/energylandia' element={<Energylandia></Energylandia>}></Route>
         <Route path='/czestochowa' element={<Czestochowa></Czestochowa>}></Route>
         <Route path='/price' element={<Price></Price>}></Route>
+        <Route path='/tickets' element={<Ticket></Ticket>}></Route>
         
         
     </Routes>
