@@ -56,7 +56,7 @@ function Wieliczka() {
           <p className='rate'> 8.9</p>
           <p className='opinion'>Opinion</p>
           <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sit, necessitatibus? Itaque amet quasi omnis vitae consequuntur repellendus quos sit, minus modi exercitationem delectus, eveniet minima, vero velit vel ea? Obcaecati?</p>
-          <a href="https://www.bing.com/search?pglt=2211&q=auschwitz+mapa&cvid=bc9a2a957eef435e88260c5963655a9d&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQNIBCDY2MzNqMGoxqAIAsAIA&FORM=ANSPA1&PC=HCTS"><img src={mapAus} className='map'></img></a>
+          <a href="https://www.google.com/maps/place/Kopalnia+Soli+%E2%80%9EWieliczka%E2%80%9D/@49.9839933,20.0504721,17z/data=!3m1!4b1!4m6!3m5!1s0x471643d805818e4b:0x972549aefd93b415!8m2!3d49.9839899!4d20.053047!16zL20vMGRxczU0?entry=ttu"><img src={mapAus} className='map'></img></a>
         </div>
         </div>
   

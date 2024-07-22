@@ -56,7 +56,7 @@ We offer private transport and assistance at destination. The drive from Krakow 
         <p className='rate'> 7.8</p>
         <p className='opinion'>Opinion</p>
         <p>" Super miejsce , bardzo orginalne i dobrze zachowane . Warto zwiedzać o każdej porze roku"</p>
-        <a href="https://www.bing.com/search?pglt=2211&q=auschwitz+mapa&cvid=bc9a2a957eef435e88260c5963655a9d&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQNIBCDY2MzNqMGoxqAIAsAIA&FORM=ANSPA1&PC=HCTS"><img src={ausMap} className='map'></img></a>
+        <a href="https://www.google.com/maps/place/Cz%C4%99stochowa/@50.8097375,18.9574112,11z/data=!3m1!4b1!4m6!3m5!1s0x4710b5c54e2ca8af:0x854f0d4d1a178236!8m2!3d50.8118195!4d19.1203094!16zL20vMGp3X3A?entry=ttu"><img src={ausMap} className='map'></img></a>
       </div>
       </div>
 

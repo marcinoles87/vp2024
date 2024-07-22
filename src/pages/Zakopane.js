@@ -60,7 +60,7 @@ We offer private transport and assistance at destination. The drive from Krakow 
         <p className='rate'> 9.2</p>
         <p className='opinion'>Opinion</p>
         <p>" Piękne widoki , natura , przyroda , cisza i spokój ! Love Zakopane"</p>
-        <a href="https://www.bing.com/search?pglt=2211&q=auschwitz+mapa&cvid=bc9a2a957eef435e88260c5963655a9d&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQNIBCDY2MzNqMGoxqAIAsAIA&FORM=ANSPA1&PC=HCTS"><img src={ausMap} className='map'></img></a>
+        <a href="https://www.google.com/maps/place/Zakopane/@49.2758407,19.889369,12z/data=!3m1!4b1!4m6!3m5!1s0x4715f29294ef3939:0xdf8d87a1716ba6a0!8m2!3d49.299181!4d19.949562!16zL20vMGM2ZDc?entry=ttu"><img src={ausMap} className='map'></img></a>
       </div>
       </div>
 
