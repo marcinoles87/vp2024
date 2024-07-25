@@ -9,8 +9,10 @@ function Contact() {
   return (
     <div className='contact-container' id='contact'>
       <div className='contact-left'>
-       Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo sapiente magnam, labore, maiores possimus, illum ipsam tenetur sequi accusantium similique nostrum cupiditate eaque ducimus. Distinctio aliquam alias officia dolore veniam!
-       Sapiente, corrupti laudantium quos obcaecati quo expedita fugit labore ab voluptatibus magni dignissimos doloribus? Dolorum, natus! Rem nesciunt minus omnis eligendi sequi, repellendus possimus dicta vel, ab, perspiciatis incidunt maxime.
+      Vip Tour Cracow świadczy kompleksowe usługi przewozu towarów dla klientów indywidualnych i firm.
+Posiadamy nowoczesny i wszechstronny tabor pojazdów, który umożliwia nam dostosowanie się do różnorodnych potrzeb naszych klientów.
+Zajmujemy się transportem krajowym i międzynarodowym, posiadamy niezbędne uprawnienia.
+Nasi doświadczeni kierowcy są gwarantem bezpiecznego przewozu w terminie oraz zgodnie z ustalonymi normami.
       
       </div>
 
