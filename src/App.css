@@ -460,6 +460,10 @@
   font-weight: 800;
 }
 
+.opinion-text{
+  padding: 6px;
+}
+
 .map{
   width: 100%;
   object-fit: contain;
@@ -641,6 +645,10 @@
    
    }
 
+   .tour-container{
+    margin: auto;
+   }
+
 
    .tour-main{
     flex-direction: column;
@@ -688,6 +696,10 @@
    .price-container{
     font-size: small;
     margin: auto;
+   }
+
+   .ticket-header{
+    flex-direction: column;
    }
 
   
