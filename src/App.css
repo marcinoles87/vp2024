@@ -542,12 +542,24 @@
   object-fit: cover;
 }
 
+.form{
+  background-image: url('./img/form.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
 .form-container{
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   text-align: center;
+  background-color: #23232388;
+  padding-top: 100px;
+  
+ 
 }
 
 .form-container input{

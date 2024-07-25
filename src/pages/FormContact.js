@@ -2,8 +2,7 @@ import React from 'react'
 
 function FormContact() {
   return (
-    <div>
-        <h1>Contact with us ! now ...</h1>
+    <div className='form'>
 
         <div className='form-container'> 
             <h2>Send email</h2>
