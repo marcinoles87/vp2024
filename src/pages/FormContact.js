@@ -13,14 +13,19 @@ function FormContact() {
             </label>
 
             <label>
-                <p>Topic</p>
-                <input type='text' placeholder='topic'></input>
+                <p>Email</p>
+                <input type='email' placeholder='email'></input>
+            </label>
+
+            <label>
+                <p>Number</p>
+                <input type='number' placeholder='phone'></input>
             </label>
 
             <label>
                 <p>Message</p>
-                <input type='textarea' placeholder='message'></input>
-            </label>
+                <textarea></textarea>
+                </label>
 
             <button>Send</button>
         </div>
