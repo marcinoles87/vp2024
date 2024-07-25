@@ -60,7 +60,7 @@ function Tours() {
     {
       img: energy,
       nazwa:'Energylandia',
-      opis : 'Krakow is one of the most beautiful cities in Europe. It’s Poland’s second largest city and former capital. What can you see here? The most popular places in Cracow: Wawel - a limestone hill in the center of Krakow upon the Vistula River with a complex of impressive historical monuments of unique historical and artistic values. This extraordinary sanctuary determines the Poles’ identity, is their national and cultural symbol. Wawel used to be the seat of Polish rulers, their necropolis and place where the Polish history took shape. To the north of the old town are Florian’s Gate and the Barbican. These buildings are from the 14th and 15th centuries that made up part of Krakow’s city walls, designed to protect against enemy invaders. Oskar Schindler’s factory – the one that Liam Neeson’s Schindler’s List movie was about – is now a museum open to the public, and provides an interesting glance into life in Krakow during the Second World War. And this is just the beginning of a great tourist adventure!We offer private transport and assistance at destination. Our driver will help you to buy the tickets and find the most attractive places. This tour has no time limit, you decide how much time you want to spend on touring. The prize includes transport and the wait. It does not include the entrances fees.' ,
+      opis : 'Energylandia is a vibrant amusement park located in Poland, offering thrilling rides, entertaining shows, and family-friendly attractions. With diverse entertainment options, it promises an unforgettable adventure for visitors of all ages.' ,
       czas : '2:20h' ,
       cena : '200zl',
       link : 'energylandia'
