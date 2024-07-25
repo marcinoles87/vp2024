@@ -18,6 +18,7 @@ import Energylandia from './pages/Energylandia';
 import Wieliczka from './pages/Wieliczka';
 import Price  from './pages/Price';
 import Ticket from './pages/Ticket';
+import FormContact from './pages/FormContact';
 
 
 function App() {
@@ -51,6 +52,7 @@ function App() {
         <Route path='/czestochowa' element={<Czestochowa></Czestochowa>}></Route>
         <Route path='/price' element={<Price></Price>}></Route>
         <Route path='/tickets' element={<Ticket></Ticket>}></Route>
+        <Route path='/formcontact' element={<FormContact></FormContact>}></Route>
         
         
     </Routes>
