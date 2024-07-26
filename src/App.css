@@ -543,21 +543,30 @@
 }
 
 .form{
+  display: flex;
+  justify-content: center;
   background-image: url('./img/form.jpeg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
+  color: white;
 }
 
 .form-container{
+  width: 30%;
+  height: 80%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
   display: flex;
   flex-direction: column;
-  justify-content: center;
   align-items: center;
   text-align: center;
-  background-color: #23232388;
-  padding-top: 100px;
+  background-color: #232323b1;
+  padding-top: 50px;
+  border-radius: 10px;
   
  
 }
