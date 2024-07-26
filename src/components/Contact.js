@@ -9,7 +9,7 @@ function Contact() {
   return (
     <div className='contact-container' id='contact'>
       <div className='contact-left'>
-      Vip Tour Cracow świadczy kompleksowe usługi przewozu towarów dla klientów indywidualnych i firm.
+      Vip Tour Cracow świadczy kompleksowe usługi przewozu dla klientów indywidualnych i firm.
 Posiadamy nowoczesny i wszechstronny tabor pojazdów, który umożliwia nam dostosowanie się do różnorodnych potrzeb naszych klientów.
 Zajmujemy się transportem krajowym i międzynarodowym, posiadamy niezbędne uprawnienia.
 Nasi doświadczeni kierowcy są gwarantem bezpiecznego przewozu w terminie oraz zgodnie z ustalonymi normami.
