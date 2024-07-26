@@ -557,7 +557,7 @@
   width: 30%;
   height: 80%;
   position: absolute;
-  top: 50%;
+  top: 40%;
   left: 50%;
   transform: translate(-50%,-50%);
   display: flex;
@@ -587,6 +587,12 @@
   padding: 10px;
   border-radius: 10px;
   width: 100px;
+}
+
+.form-container textarea{
+  width: 250px;
+  
+ 
 }
 
 
