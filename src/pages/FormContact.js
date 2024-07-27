@@ -5,24 +5,15 @@ function FormContact() {
     const [name , setName] = useState('');
     const [email , setEmail] = useState('');
     const [number , setNumber] = useState('');
+    const [message , setMessage] = useState('');
 
     const [submit , setSubmit] = useState('');
 
     console.log(name , email , number)
 
     const sendEmail = () => {
-        Email.send({
-            Host: "smtp.gmail.com",
-            Username: "sender@email_address.com",
-            Password: "Enter your password",
-            To: 'marcinoles87@gmail.com',
-            From: email,
-            Subject: "Sending Email using javascript",
-            Body: "Well that was easy!!",
-        })
-            .then(function (message) {
-                alert("mail sent successfully")
-            });
+        window.open(`mailto:marcinoles87@gmail.com?subject=${email}&body=${message} 'phone :' ${number}`);
+
         }
     
     
@@ -61,7 +52,7 @@ function FormContact() {
 
             <label>
                 <p>Message</p>
-                <textarea></textarea>
+                <textarea onChange={ (e) => setMessage(e.target.value)}></textarea>
                 </label>
 
             <button onClick={sendEmail}>Send</button>
