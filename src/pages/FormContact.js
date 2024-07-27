@@ -6,13 +6,14 @@ function FormContact() {
     const [email , setEmail] = useState('');
     const [number , setNumber] = useState('');
     const [message , setMessage] = useState('');
+    const [trip , setTrip] = useState('')
 
     const [submit , setSubmit] = useState('');
 
-    console.log(name , email , number)
+    console.log(name , email , number , message , trip)
 
     const sendEmail = () => {
-        window.open(`mailto:marcinoles87@gmail.com?subject=${email}&body=${message} 'phone :' ${number}`);
+        window.open(`mailto:marcinoles87@gmail.com?subject=${trip}&body= 'email:' ${email} 'phone :' ${number} , message : ${message}` );
 
         }
     
@@ -41,13 +42,13 @@ function FormContact() {
 
             <label htmlFor="tours">Choose a tour:</label>
 
-                    <select name="tours" id="tours">
+                    <select name="tours" id="tours" onChange={ (e) => setTrip(e.target.value)}>
                     <option value="auschwitz">Auschwitz</option>
                     <option value="saltmine">Wieliczka</option>
                     <option value="cracow">Cracow</option>
                     <option value="czestochowa">Czestochowa</option>
                     <option value="zakopane">Zakopane</option>
-                    <option value="Energylandia">Energylandia</option>
+                    <option value="energylandia">Energylandia</option>
                     </select>
 
             <label>

@@ -545,7 +545,7 @@
 .form{
   display: flex;
   justify-content: center;
-  background-image: url('./img/form.jpeg');
+  background-image: url('./img/form2.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -753,6 +753,13 @@
 
    .ticket-header{
     flex-direction: column;
+   }
+
+   .form-container{
+    width: auto;
+    height: 100vh;
+    position:unset; 
+    transform: none;
    }
 
   
