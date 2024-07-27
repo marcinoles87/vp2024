@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/vp2024/static/css/main.e67be3ff.css",
-    "main.js": "/vp2024/static/js/main.d4070b73.js",
+    "main.css": "/vp2024/static/css/main.65d02d87.css",
+    "main.js": "/vp2024/static/js/main.68e360ff.js",
     "static/media/zakImg5.jpg": "/vp2024/static/media/zakImg5.4793a2ef5b8c0355f72d.jpg",
     "static/media/zakImg2.jpg": "/vp2024/static/media/zakImg2.1322ed8d33fc14ed960e.jpg",
     "static/media/zakImg3.jpg": "/vp2024/static/media/zakImg3.79837d9829c930272541.jpg",
@@ -21,6 +21,7 @@
     "static/media/cra4.jpg": "/vp2024/static/media/cra4.502656b6be2d8f4bb07f.jpg",
     "static/media/wie4.jpg": "/vp2024/static/media/wie4.115c7469776028a1c8ac.jpg",
     "static/media/cra.jpg": "/vp2024/static/media/cra.2643424ab94d7cad2ea9.jpg",
+    "static/media/form2.jpg": "/vp2024/static/media/form2.f6c36e9e367781d6427c.jpg",
     "static/media/wieliczka.jpg": "/vp2024/static/media/wieliczka.7a2b98d9761124b157ac.jpg",
     "static/media/aus4.jpg": "/vp2024/static/media/aus4.d3ebeed8b333bc9f94e7.jpg",
     "static/media/energy.jpg": "/vp2024/static/media/energy.f4415cf10fba6e54e740.jpg",
@@ -35,11 +36,11 @@
     "static/media/facebookLogo.png": "/vp2024/static/media/facebookLogo.2994cb6f4cb1ada37743.png",
     "static/media/wie2.jpg": "/vp2024/static/media/wie2.37e390ede931823cbb06.jpg",
     "index.html": "/vp2024/index.html",
-    "main.e67be3ff.css.map": "/vp2024/static/css/main.e67be3ff.css.map",
-    "main.d4070b73.js.map": "/vp2024/static/js/main.d4070b73.js.map"
+    "main.65d02d87.css.map": "/vp2024/static/css/main.65d02d87.css.map",
+    "main.68e360ff.js.map": "/vp2024/static/js/main.68e360ff.js.map"
   },
   "entrypoints": [
-    "static/css/main.e67be3ff.css",
-    "static/js/main.d4070b73.js"
+    "static/css/main.65d02d87.css",
+    "static/js/main.68e360ff.js"
   ]
 }
