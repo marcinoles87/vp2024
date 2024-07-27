@@ -10,6 +10,23 @@ function FormContact() {
 
     console.log(name , email , number)
 
+    const sendEmail = () => {
+        Email.send({
+            Host: "smtp.gmail.com",
+            Username: "sender@email_address.com",
+            Password: "Enter your password",
+            To: 'marcinoles87@gmail.com',
+            From: email,
+            Subject: "Sending Email using javascript",
+            Body: "Well that was easy!!",
+        })
+            .then(function (message) {
+                alert("mail sent successfully")
+            });
+        }
+    
+    
+
   return (
     <div className='form'>
 
@@ -47,7 +64,7 @@ function FormContact() {
                 <textarea></textarea>
                 </label>
 
-            <button>Send</button>
+            <button onClick={sendEmail}>Send</button>
         </div>
 
     </div>
