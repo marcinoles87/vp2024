@@ -756,10 +756,15 @@
    }
 
    .form-container{
-    width: auto;
+    width: 100%;
     height: 100vh;
     position:unset; 
     transform: none;
+    background-color: #2323238b;
+   }
+
+   #tours{
+    margin: 10px;
    }
 
   
