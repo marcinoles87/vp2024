@@ -19,9 +19,9 @@ Nasi doświadczeni kierowcy są gwarantem bezpiecznego przewozu w terminie oraz 
       <div className='contact-right'>
         <a href="#tours"><h2>Tours</h2></a>
         
-        <h2><Link to={'/price'}>Price</Link></h2>
+        {/* <h2><Link to={'/price'}>Price</Link></h2> */}
         <h2><Link to={'/tickets'}>Tickets</Link></h2>
-        <h2><Link to={'/formcontact'}>Send email to us</Link></h2>
+        {/* <h2><Link to={'/formcontact'}>Send email to us</Link></h2> */}
       
         
     

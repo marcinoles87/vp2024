@@ -47,7 +47,7 @@ function Main() {
           <div className='main-count'>
             <div className='count-item'>
             <p>Trips ride</p>
-            <CountUp start={0} end={200} duration={5}></CountUp>
+            <CountUp start={0} end={500} duration={5}></CountUp>
             </div>
 
             <div className='count-item'>
