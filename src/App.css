@@ -47,6 +47,10 @@
   margin-right: 5px;
 }
 
+.head-nav-container ul li a{
+  color:rgb(94, 221, 173);
+}
+
 .nav-container{
   display: flex;
   flex-direction: row;
