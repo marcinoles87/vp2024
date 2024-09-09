@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "./static/css/main.27aa99f4.css",
-    "main.js": "./static/js/main.f13617b0.js",
+    "main.css": "./static/css/main.7f25865f.css",
+    "main.js": "./static/js/main.50cb80bb.js",
     "static/media/zakImg5.jpg": "./static/media/zakImg5.4793a2ef5b8c0355f72d.jpg",
     "static/media/zakImg2.jpg": "./static/media/zakImg2.1322ed8d33fc14ed960e.jpg",
     "static/media/zakImg3.jpg": "./static/media/zakImg3.79837d9829c930272541.jpg",
+    "static/media/logoNew.png": "./static/media/logoNew.0d853ecf949237e6f6f2.png",
     "static/media/czeImg5.jpg": "./static/media/czeImg5.c13e54a2f026788696a0.jpg",
     "static/media/zakImg4.jpg": "./static/media/zakImg4.5342ccf9aa658326cbda.jpg",
     "static/media/czeImg4.jpg": "./static/media/czeImg4.34ee3a58b837bf459c13.jpg",
@@ -30,17 +31,16 @@
     "static/media/cra2.jpg": "./static/media/cra2.76e4fc8c4a2b4cbb34fc.jpg",
     "static/media/czeImg.jpg": "./static/media/czeImg.4dbc185909b9908187af.jpg",
     "static/media/czestochowa.jpg": "./static/media/czestochowa.846ac244829c540682fa.jpg",
-    "static/media/logo.png": "./static/media/logo.b9330e4427e704093d25.png",
     "static/media/creditcard.png": "./static/media/creditcard.26542093dd7f08b53821.png",
     "static/media/tripadvisor.png": "./static/media/tripadvisor.45ac34d0ecfbc5382699.png",
     "static/media/facebookLogo.png": "./static/media/facebookLogo.2994cb6f4cb1ada37743.png",
     "static/media/wie2.jpg": "./static/media/wie2.37e390ede931823cbb06.jpg",
     "index.html": "./index.html",
-    "main.27aa99f4.css.map": "./static/css/main.27aa99f4.css.map",
-    "main.f13617b0.js.map": "./static/js/main.f13617b0.js.map"
+    "main.7f25865f.css.map": "./static/css/main.7f25865f.css.map",
+    "main.50cb80bb.js.map": "./static/js/main.50cb80bb.js.map"
   },
   "entrypoints": [
-    "static/css/main.27aa99f4.css",
-    "static/js/main.f13617b0.js"
+    "static/css/main.7f25865f.css",
+    "static/js/main.50cb80bb.js"
   ]
 }
