@@ -10,8 +10,6 @@ function Main() {
 
   const startCounter = () => {
 
-    console.log(window.scrollY)
-
     if(window.scrollY > 650){
       setCounter(true)
     } 
@@ -24,19 +22,19 @@ function Main() {
       <div className='main-items'>
 
         <div className='main-item'>
-          <i class="fa-regular fa-thumbs-up new fa-2xl"></i>
+          <i className="fa-regular fa-thumbs-up new fa-2xl"></i>
           <h3>Professional Care</h3>
           <p>Professional care for passengers involves ensuring safety, providing comfort, delivering timely assistance, addressing needs promptly, maintaining communication, and fostering a positive experience throughout their journey, prioritizing overall satisfaction and well-being.</p>
         </div>
 
         <div className='main-item'>
-        <i class="fa-solid fa-medal new fa-2xl"></i>
+        <i className="fa-solid fa-medal new fa-2xl"></i>
           <h3>Quality driver</h3>
           <p>A quality driver prioritizes safety above all else. They adhere to traffic laws, respect speed limits, and are aware of their surroundings, making conscious decisions to protect themselves and others.</p>
         </div>
 
         <div className='main-item'>
-        <i class="fa-solid fa-sack-dollar fa-2xl"></i>
+        <i className="fa-solid fa-sack-dollar fa-2xl"></i>
           <h3>Price</h3>
           <p>Ultimately, finding the best price depends on a variety of factors. By analyzing costs, understanding the market and providing added value, our company will always find the best solution for you. By combining rides with each other, buying tickets in a package, you will get the best offer on the market.</p>
         </div>
