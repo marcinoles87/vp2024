@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.7f25865f.css",
-    "main.js": "./static/js/main.50cb80bb.js",
+    "main.css": "./static/css/main.25a54482.css",
+    "main.js": "./static/js/main.1e2c0074.js",
     "static/media/zakImg5.jpg": "./static/media/zakImg5.4793a2ef5b8c0355f72d.jpg",
     "static/media/zakImg2.jpg": "./static/media/zakImg2.1322ed8d33fc14ed960e.jpg",
     "static/media/zakImg3.jpg": "./static/media/zakImg3.79837d9829c930272541.jpg",
@@ -36,11 +36,11 @@
     "static/media/facebookLogo.png": "./static/media/facebookLogo.2994cb6f4cb1ada37743.png",
     "static/media/wie2.jpg": "./static/media/wie2.37e390ede931823cbb06.jpg",
     "index.html": "./index.html",
-    "main.7f25865f.css.map": "./static/css/main.7f25865f.css.map",
-    "main.50cb80bb.js.map": "./static/js/main.50cb80bb.js.map"
+    "main.25a54482.css.map": "./static/css/main.25a54482.css.map",
+    "main.1e2c0074.js.map": "./static/js/main.1e2c0074.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f25865f.css",
-    "static/js/main.50cb80bb.js"
+    "static/css/main.25a54482.css",
+    "static/js/main.1e2c0074.js"
   ]
 }
