@@ -5,11 +5,15 @@ import czeImg2 from '../img/czeImg2.jpg'
 import czeImg3 from '../img/czeImg3.jpg'
 import czeImg4 from '../img/czeImg4.jpg'
 import czeImg5 from '../img/czeImg5.jpg'
+import czeImg6 from '../img/czesto2024 (1).jpeg'
+import czeImg7 from '../img/czesto2024 (2).jpeg'
+import czeImg8 from '../img/czesto2024 (3).jpeg'
+import czeImg9 from '../img/czesto2024 (4).jpeg'
 import ausMap from '../img/ausMap.png'
 
 function Czestochowa() {
 
-  let [picture , setPicture] = useState(czeImg);
+  let [picture , setPicture] = useState(czeImg3);
 
   const images = [
     {
@@ -26,6 +30,22 @@ function Czestochowa() {
 
     {
       img:czeImg4
+    } ,
+
+    {
+      img:czeImg5
+    } ,
+
+    {
+      img:czeImg6
+    } ,
+
+    {
+      img:czeImg7
+    } ,
+
+    {
+      img:czeImg8
     } ,
 
   ]

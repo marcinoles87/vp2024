@@ -1,15 +1,18 @@
 import React , {useState} from 'react'
 
 import wieImg from '../img/wieliczka.jpg'
-import wieImg2 from '../img/wie2.jpg'
 import wieImg3 from '../img/wie3.jpg'
 import wieImg4 from '../img/wie4.jpg'
+import wieImg5 from '../img/saltmine2024 (1).jpeg'
+import wieImg6 from '../img/saltmine2024 (2).jpeg'
+import wieImg7 from '../img/saltmine2024 (3).jpeg'
+import wieImg8 from '../img/saltmine2024 (4).jpeg'
 
 import mapAus from '../img/ausMap.png'
 
 function Wieliczka() {
   
-    let [picture , setPicture] = useState(wieImg);
+    let [picture , setPicture] = useState(wieImg5);
 
   
 
@@ -18,9 +21,7 @@ function Wieliczka() {
         img:wieImg
       } ,
   
-      {
-        img:wieImg2
-      } ,
+     
   
       {
         img:wieImg3
@@ -28,6 +29,22 @@ function Wieliczka() {
   
       {
         img:wieImg4
+      } ,
+
+      {
+        img:wieImg5
+      } ,
+
+      {
+        img:wieImg6
+      } ,
+
+      {
+        img:wieImg7
+      } ,
+
+      {
+        img:wieImg8
       } ,
   
     ]
