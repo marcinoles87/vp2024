@@ -1,13 +1,20 @@
 {
   "files": {
-    "main.css": "./static/css/main.25a54482.css",
-    "main.js": "./static/js/main.1e2c0074.js",
+    "main.css": "./static/css/main.9b325dc3.css",
+    "main.js": "./static/js/main.6c97f9e4.js",
+    "static/media/czesto2024 (4).jpeg": "./static/media/czesto2024 (4).02cd358ecd7740035c40.jpeg",
+    "static/media/aus2024_1 (2).jpeg": "./static/media/aus2024_1 (2).b9b66ece169f17c7043f.jpeg",
+    "static/media/saltmine2024 (4).jpeg": "./static/media/saltmine2024 (4).8e997976b411acace5d5.jpeg",
+    "static/media/czesto2024 (2).jpeg": "./static/media/czesto2024 (2).10976f9fe9fbc3ff0e9d.jpeg",
+    "static/media/czesto2024 (1).jpeg": "./static/media/czesto2024 (1).5c2bfc43ae0ff84a61da.jpeg",
+    "static/media/saltmine2024 (1).jpeg": "./static/media/saltmine2024 (1).5525c8d73e8961fc101c.jpeg",
     "static/media/zakImg5.jpg": "./static/media/zakImg5.4793a2ef5b8c0355f72d.jpg",
     "static/media/zakImg2.jpg": "./static/media/zakImg2.1322ed8d33fc14ed960e.jpg",
     "static/media/zakImg3.jpg": "./static/media/zakImg3.79837d9829c930272541.jpg",
     "static/media/logoNew.png": "./static/media/logoNew.0d853ecf949237e6f6f2.png",
     "static/media/czeImg5.jpg": "./static/media/czeImg5.c13e54a2f026788696a0.jpg",
     "static/media/zakImg4.jpg": "./static/media/zakImg4.5342ccf9aa658326cbda.jpg",
+    "static/media/saltmine2024 (3).jpeg": "./static/media/saltmine2024 (3).a2e18bdf3cd000347f34.jpeg",
     "static/media/czeImg4.jpg": "./static/media/czeImg4.34ee3a58b837bf459c13.jpg",
     "static/media/aus2.jpg": "./static/media/aus2.802e2cb55851decf2b38.jpg",
     "static/media/czeImg3.jpg": "./static/media/czeImg3.250a68a45972bd932d29.jpg",
@@ -18,6 +25,7 @@
     "static/media/czeImg2.jpg": "./static/media/czeImg2.d52aa8ccba08011e2705.jpg",
     "static/media/ausMap.png": "./static/media/ausMap.f24d2107553c358d118f.png",
     "static/media/aus3.jpg": "./static/media/aus3.9d567a8978901468278d.jpg",
+    "static/media/aus2024_1 (3).jpeg": "./static/media/aus2024_1 (3).888aed858e1695995db5.jpeg",
     "static/media/aus.jpg": "./static/media/aus.ec6840e5b48a0a042ef1.jpg",
     "static/media/cra4.jpg": "./static/media/cra4.502656b6be2d8f4bb07f.jpg",
     "static/media/wie4.jpg": "./static/media/wie4.115c7469776028a1c8ac.jpg",
@@ -25,6 +33,7 @@
     "static/media/form2.jpg": "./static/media/form2.f6c36e9e367781d6427c.jpg",
     "static/media/wieliczka.jpg": "./static/media/wieliczka.7a2b98d9761124b157ac.jpg",
     "static/media/aus4.jpg": "./static/media/aus4.d3ebeed8b333bc9f94e7.jpg",
+    "static/media/aus2024_1 (4).jpeg": "./static/media/aus2024_1 (4).5d62873bd0f62abe0183.jpeg",
     "static/media/energy.jpg": "./static/media/energy.f4415cf10fba6e54e740.jpg",
     "static/media/cra3.jpg": "./static/media/cra3.6025c512a3b676656118.jpg",
     "static/media/mainlogo.jpg": "./static/media/mainlogo.9728c753dbeec68a2427.jpg",
@@ -32,15 +41,17 @@
     "static/media/czeImg.jpg": "./static/media/czeImg.4dbc185909b9908187af.jpg",
     "static/media/czestochowa.jpg": "./static/media/czestochowa.846ac244829c540682fa.jpg",
     "static/media/creditcard.png": "./static/media/creditcard.26542093dd7f08b53821.png",
+    "static/media/saltmine2024 (2).jpeg": "./static/media/saltmine2024 (2).23c5cb66bacde98aff27.jpeg",
     "static/media/tripadvisor.png": "./static/media/tripadvisor.45ac34d0ecfbc5382699.png",
+    "static/media/czesto2024 (3).jpeg": "./static/media/czesto2024 (3).d63008cd2301c0198385.jpeg",
     "static/media/facebookLogo.png": "./static/media/facebookLogo.2994cb6f4cb1ada37743.png",
-    "static/media/wie2.jpg": "./static/media/wie2.37e390ede931823cbb06.jpg",
+    "static/media/aus2024_1 (1).jpeg": "./static/media/aus2024_1 (1).df2b7cdb698dbb16065f.jpeg",
     "index.html": "./index.html",
-    "main.25a54482.css.map": "./static/css/main.25a54482.css.map",
-    "main.1e2c0074.js.map": "./static/js/main.1e2c0074.js.map"
+    "main.9b325dc3.css.map": "./static/css/main.9b325dc3.css.map",
+    "main.6c97f9e4.js.map": "./static/js/main.6c97f9e4.js.map"
   },
   "entrypoints": [
-    "static/css/main.25a54482.css",
-    "static/js/main.1e2c0074.js"
+    "static/css/main.9b325dc3.css",
+    "static/js/main.6c97f9e4.js"
   ]
 }
