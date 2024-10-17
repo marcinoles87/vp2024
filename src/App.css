@@ -490,12 +490,14 @@
 .img{
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: left;
   gap:10px;
   height: 27vh;
 }
 
 .img img{
-  width: 25%;
+  width: 30%;
   object-fit: cover;
 }
 
@@ -735,7 +737,7 @@
    }
 
    .img{
-    flex-direction: column;
+    flex-direction: row;
     
    }
 
