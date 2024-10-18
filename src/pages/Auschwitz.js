@@ -8,6 +8,7 @@ import imgAus5 from '../img/aus2024_1 (4).jpeg'
 import imgAus6 from '../img/aus2024_1 (1).jpeg'
 import imgAus7 from '../img/aus2024_1 (2).jpeg'
 import imgAus8 from '../img/aus2024_1 (3).jpeg'
+import imgAus9 from '../img/aus2024_1 (6).jpeg'
 
 import mapAus from '../img/ausMap.png'
 
@@ -48,6 +49,9 @@ function Auschwitz() {
 
     {
       img:imgAus8
+    } ,
+    {
+      img:imgAus9
     } ,
 
   ]
