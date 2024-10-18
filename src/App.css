@@ -602,6 +602,18 @@
  
 }
 
+@media screen and (max-width:1040px) {
+  .nav-elements li a{
+    font-size: 1rem;
+    padding: 10px 14px;
+  }
+
+  .nav-logo{
+    margin: 10px;
+
+  }
+}
+
 
 
 @media screen and (max-width:460px) {
@@ -638,6 +650,11 @@
     flex-direction: column;
     padding: 0;
    }
+
+    .nav-elements li a{
+      font-size: 1.3rem;
+      padding: 10px 14px;
+    }
 
    .header-container{
     height: 50vh;
@@ -689,6 +706,7 @@
    .main-img img{
     margin-top: 30px;
     border-radius: 10px;
+    width: 70vw;
    }
 
    .tours-grid{
