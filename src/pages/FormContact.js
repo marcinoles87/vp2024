@@ -13,7 +13,7 @@ function FormContact() {
     console.log(name , email , number , message , trip)
 
     const sendEmail = () => {
-        window.open(`mailto:marcinoles87@gmail.com?subject=${trip}&body= 'email:' ${email} 'phone :' ${number} , message : ${message}` );
+        console.log(`mailto:marcinoles87@gmail.com?subject=${trip}&body= 'email:' ${email} 'phone :' ${number} , message : ${message}`)
 
         }
     
