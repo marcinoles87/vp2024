@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "./static/css/main.9b325dc3.css",
-    "main.js": "./static/js/main.6c97f9e4.js",
+    "main.css": "./static/css/main.33d6f22e.css",
+    "main.js": "./static/js/main.a87e9840.js",
     "static/media/czesto2024 (4).jpeg": "./static/media/czesto2024 (4).02cd358ecd7740035c40.jpeg",
     "static/media/aus2024_1 (2).jpeg": "./static/media/aus2024_1 (2).b9b66ece169f17c7043f.jpeg",
     "static/media/saltmine2024 (4).jpeg": "./static/media/saltmine2024 (4).8e997976b411acace5d5.jpeg",
     "static/media/czesto2024 (2).jpeg": "./static/media/czesto2024 (2).10976f9fe9fbc3ff0e9d.jpeg",
     "static/media/czesto2024 (1).jpeg": "./static/media/czesto2024 (1).5c2bfc43ae0ff84a61da.jpeg",
+    "static/media/aus2024_1 (6).jpeg": "./static/media/aus2024_1 (6).8824194c91af9fcc2e57.jpeg",
     "static/media/saltmine2024 (1).jpeg": "./static/media/saltmine2024 (1).5525c8d73e8961fc101c.jpeg",
     "static/media/zakImg5.jpg": "./static/media/zakImg5.4793a2ef5b8c0355f72d.jpg",
     "static/media/zakImg2.jpg": "./static/media/zakImg2.1322ed8d33fc14ed960e.jpg",
@@ -47,11 +48,11 @@
     "static/media/facebookLogo.png": "./static/media/facebookLogo.2994cb6f4cb1ada37743.png",
     "static/media/aus2024_1 (1).jpeg": "./static/media/aus2024_1 (1).df2b7cdb698dbb16065f.jpeg",
     "index.html": "./index.html",
-    "main.9b325dc3.css.map": "./static/css/main.9b325dc3.css.map",
-    "main.6c97f9e4.js.map": "./static/js/main.6c97f9e4.js.map"
+    "main.33d6f22e.css.map": "./static/css/main.33d6f22e.css.map",
+    "main.a87e9840.js.map": "./static/js/main.a87e9840.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b325dc3.css",
-    "static/js/main.6c97f9e4.js"
+    "static/css/main.33d6f22e.css",
+    "static/js/main.a87e9840.js"
   ]
 }
