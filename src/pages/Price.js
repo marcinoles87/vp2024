@@ -8,35 +8,50 @@ function Price() {
       destination : 'Auschwitz',
       price1 : '100E',
       price2 : '30E',
-      price3 : '28E'
+      price3 : '28E',
+      price4 : '28E',
+      price5 : '28E',
+      price6 : '28E',
     },
     
     {
       destination : 'Saltmine',
       price1 : '100E',
       price2 : '30E',
-      price3 : '28E'
+      price3 : '28E',
+      price4 : '28E',
+      price5 : '28E',
+      price6 : '28E',
     },
 
     {
       destination : 'Cracow',
       price1 : '90E',
       price2 : '30E',
-      price3 : '28E'
+      price3 : '28E',
+      price4 : '28E',
+      price5 : '28E',
+      price6 : '28E',
     },
 
     {
       destination : 'Czestochowa',
       price1 : '100E',
       price2 : '30E',
-      price3 : '28E'
+      price3 : '28E',
+      price4 : '28E',
+      price5 : '28E',
+      price6 : '28E',
     },
 
     {
       destination : 'Energylandia',
       price1 : '100E',
       price2 : '30E',
-      price3 : '28E'
+      price3 : '28E',
+      price4 : '28E',
+      price5 : '28E',
+      price6 : '28E',
     }
 
 
@@ -73,25 +88,21 @@ function Price() {
         </tr>
       </thead>
       <tbody>
-        <tr>
-          <td>Auschwitz</td>
-          <td>100E</td>
-          <td>90E</td>
-          <td>45E</td>
-          <td>30E</td>
-          <td>24E</td>
-          <td>20E</td>
-          
-          
-        </tr>
-        <tr>
-          <td>Saltmine Wieliczka</td>
-         
-        </tr>
-        <tr> <td>Cracow Town</td> </tr>
-        <tr> <td>Zakopane</td> </tr>
-        <tr> <td>Energylandia</td> </tr>
-        <tr> <td>Czestochowa</td> </tr>
+        
+        {shared.map( (item ,index) => {
+          return(
+            <tr key={index}>
+              <td>{item.destination}</td>
+              <td>{item.price1}</td>
+              <td>{item.price2}</td>
+              <td>{item.price3}</td>
+              <td>{item.price4}</td>
+              <td>{item.price5}</td>
+              <td>{item.price6}</td>
+            </tr>
+          )
+        })}
+        
         
       </tbody>
     </Table>
@@ -115,7 +126,7 @@ function Price() {
       <tbody>
         {shared.map( (item ,index) => {
           return(
-            <tr>
+            <tr key={index}>
               <td>{item.destination}</td>
               <td>{item.price1}</td>
               <td>{item.price2}</td>
