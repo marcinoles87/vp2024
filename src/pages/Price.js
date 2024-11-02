@@ -172,17 +172,18 @@ function Price() {
 
 <h2>Salt Mine Tour</h2>
 <p>od osoby sugerowana cena dla klienta 310pln</p>
-<h2>Zakopane Tour</h2> - 
+<h2>Zakopane Tour</h2>
 <p>max 4 osób sugerowana cena dla klienta 750pln </p>
 <p>max 8 osób sugerowana cena dla klienta 970pln</p>
-<h2>Zakopane & Thermal pool 3h </h2>- 2 osoby cena dla klienta 960pln
-                                                 3 osoby cena dla klienta 1080pln
-                                                 4 osoby cena dla cena dla klienta 1420pln                                                
+<h2>Zakopane & Thermal pool 3h </h2>
+   <p>2 osoby cena dla klienta 960pln</p>
+                                                 <p>3 osoby cena dla klienta 1080pln</p>
+                                                <p> 4 osoby cena dla cena dla klienta 1420pln </p>                                               
                                                  
-                                                 5 os.  cena dla klienta 1320pln
-                                                 6 os. cena dla klienta 1420pln
-                                                 7 os cena dla klienta 1560pln
-                                                 8 os. cena dla klienta 1680pln
+                                                 <p>5 os.  cena dla klienta 1320pln</p>
+                                                 <p>6 os. cena dla klienta 1420pln</p>
+                                                <p> 7 os cena dla klienta 1560pln</p>
+                                                <p> 8 os. cena dla klienta 1680pln</p>
   </div>
 
   )
