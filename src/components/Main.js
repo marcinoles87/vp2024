@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import CountUp from 'react-countup';
 
-import mainImg from '../img/mainlogo.jpg'
+import mainImg from '../img/aus2024_1 (2).jpeg'
 
 function Main() {
 
