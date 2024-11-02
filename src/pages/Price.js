@@ -159,19 +159,23 @@ function Price() {
  <p>do 8 osób 650pln  dla klienta 800pln</p>
                                                        
  <h1>TOURS/WYCIECZKI:</h1> 
-Auschwitz & Birkenau Tour Sharing -  od osoby  dla klienta 220pln
-Auschwitz & Birkenau Tour Private -  2 osoby dla klienta 860pln
-                                                           3 osoby  cena dla klienta 1000pln
-                                                           4 osoby  cena dla klienta 1140pln
-                                                           5 os.  cena dla klienta 1280pln
-                                                           6 os.  cena dla klienta 1420pln
-                                                           7 os.  cena dla klienta 1560pln
-                                                           8 os.  cena dla klienta 1700pln
+ <h2>Auschwitz & Birkenau Tour Sharing </h2>
+ <p> od osoby 220pln</p>
+<h2>Auschwitz & Birkenau Tour Private</h2>
+      <p> 2 osoby dla klienta 860pln</p>
+      <p>3 osoby  cena dla klienta 1000pln</p>
+      <p>4 osoby  cena dla klienta 1140pln</p>
+      <p>5 os.  cena dla klienta 1280pln</p>
+      <p>6 os.  cena dla klienta 1420pln</p>
+      <p> 7 os.  cena dla klienta 1560pln</p>
+      <p> 8 os.  cena dla klienta 1700pln</p>
 
-Salt Mine Tour - od osoby sugerowana cena dla klienta 310pln
-Zakopane Tour - max 4 osób sugerowana cena dla klienta 750pln 
-                            max 8 osób sugerowana cena dla klienta 970pln
-Zakopane & Thermal pool 3h - 2 osoby cena dla klienta 960pln
+<h2>Salt Mine Tour</h2>
+<p>od osoby sugerowana cena dla klienta 310pln</p>
+<h2>Zakopane Tour</h2> - 
+<p>max 4 osób sugerowana cena dla klienta 750pln </p>
+<p>max 8 osób sugerowana cena dla klienta 970pln</p>
+<h2>Zakopane & Thermal pool 3h </h2>- 2 osoby cena dla klienta 960pln
                                                  3 osoby cena dla klienta 1080pln
                                                  4 osoby cena dla cena dla klienta 1420pln                                                
                                                  
