@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.33d6f22e.css",
-    "main.js": "./static/js/main.a87e9840.js",
+    "main.css": "./static/css/main.54a9bb7f.css",
+    "main.js": "./static/js/main.763122b2.js",
     "static/media/czesto2024 (4).jpeg": "./static/media/czesto2024 (4).02cd358ecd7740035c40.jpeg",
     "static/media/aus2024_1 (2).jpeg": "./static/media/aus2024_1 (2).b9b66ece169f17c7043f.jpeg",
     "static/media/saltmine2024 (4).jpeg": "./static/media/saltmine2024 (4).8e997976b411acace5d5.jpeg",
@@ -37,7 +37,6 @@
     "static/media/aus2024_1 (4).jpeg": "./static/media/aus2024_1 (4).5d62873bd0f62abe0183.jpeg",
     "static/media/energy.jpg": "./static/media/energy.f4415cf10fba6e54e740.jpg",
     "static/media/cra3.jpg": "./static/media/cra3.6025c512a3b676656118.jpg",
-    "static/media/mainlogo.jpg": "./static/media/mainlogo.9728c753dbeec68a2427.jpg",
     "static/media/cra2.jpg": "./static/media/cra2.76e4fc8c4a2b4cbb34fc.jpg",
     "static/media/czeImg.jpg": "./static/media/czeImg.4dbc185909b9908187af.jpg",
     "static/media/czestochowa.jpg": "./static/media/czestochowa.846ac244829c540682fa.jpg",
@@ -48,11 +47,11 @@
     "static/media/facebookLogo.png": "./static/media/facebookLogo.2994cb6f4cb1ada37743.png",
     "static/media/aus2024_1 (1).jpeg": "./static/media/aus2024_1 (1).df2b7cdb698dbb16065f.jpeg",
     "index.html": "./index.html",
-    "main.33d6f22e.css.map": "./static/css/main.33d6f22e.css.map",
-    "main.a87e9840.js.map": "./static/js/main.a87e9840.js.map"
+    "main.54a9bb7f.css.map": "./static/css/main.54a9bb7f.css.map",
+    "main.763122b2.js.map": "./static/js/main.763122b2.js.map"
   },
   "entrypoints": [
-    "static/css/main.33d6f22e.css",
-    "static/js/main.a87e9840.js"
+    "static/css/main.54a9bb7f.css",
+    "static/js/main.763122b2.js"
   ]
 }
