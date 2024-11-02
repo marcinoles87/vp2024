@@ -154,8 +154,10 @@ function Price() {
    <p>do 4 osób cena dla klienta 120pln</p>
    <p>od 5 do 8 osób  dla klienta 140pln</p>
                                                         
-Transfer Katowice Pyrzowice -      do 4 osób 550pln  dla klienta 700pln
-                                                       do 8 osób 650pln  dla klienta 800pln
+ <h3>Transfer Katowice Pyrzowice</h3> -      
+ <p>do 4 osób 550pln  dla klienta 700pln</p>
+ <p>do 8 osób 650pln  dla klienta 800pln</p>
+                                                       
  <h1>TOURS/WYCIECZKI:</h1> 
 Auschwitz & Birkenau Tour Sharing -  od osoby  dla klienta 220pln
 Auschwitz & Birkenau Tour Private -  2 osoby dla klienta 860pln
