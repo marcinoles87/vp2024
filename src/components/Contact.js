@@ -9,10 +9,10 @@ function Contact() {
   return (
     <div className='contact-container' id='contact'>
       <div className='contact-left'>
-      Vip Tour Cracow świadczy kompleksowe usługi przewozu dla klientów indywidualnych i firm.
+      <p>Vip Tour Cracow świadczy kompleksowe usługi przewozu dla klientów indywidualnych i firm.
 Posiadamy nowoczesny i wszechstronny tabor pojazdów, który umożliwia nam dostosowanie się do różnorodnych potrzeb naszych klientów.
 Zajmujemy się transportem krajowym i międzynarodowym, posiadamy niezbędne uprawnienia.
-Nasi doświadczeni kierowcy są gwarantem bezpiecznego przewozu w terminie oraz zgodnie z ustalonymi normami.
+Nasi doświadczeni kierowcy są gwarantem bezpiecznego przewozu w terminie oraz zgodnie z ustalonymi normami.</p>
       
       </div>
 
@@ -21,7 +21,7 @@ Nasi doświadczeni kierowcy są gwarantem bezpiecznego przewozu w terminie oraz 
         
         <h2><Link to={'/price'}>Price</Link></h2>
         <h2><Link to={'/tickets'}>Tickets</Link></h2>
-        <h2><Link to={'/formcontact'}>Send message</Link></h2>
+        {/* <h2><Link to={'/formcontact'}>Send message</Link></h2> */}
       
         
     
