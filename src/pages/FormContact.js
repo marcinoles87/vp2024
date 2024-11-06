@@ -15,6 +15,14 @@ function FormContact() {
     const sendEmail = () => {
         console.log(`mailto:marcinoles87@gmail.com?subject=${trip}&body= 'email:' ${email} 'phone :' ${number} , message : ${message}`)
 
+        let myNumber = 48783845344
+
+        let url = 'https://wa.me/'+myNumber + `${trip}&body= 'email:' ${email} 'phone :' ${number} , message : ${message}`
+
+        window.open(url , '_blank' ).focus() ;
+    
+
+
         }
     
     
