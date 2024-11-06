@@ -473,7 +473,7 @@
   width: 100%;
   object-fit: contain;
   padding: 10px;
-  filter: blur(0.7px);
+  
 }
 
 .tour-img img{
