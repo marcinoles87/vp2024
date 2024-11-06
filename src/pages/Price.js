@@ -182,13 +182,7 @@ function Price() {
 //   <div className='price-container'>
 //     <h1>TRANSFERS/TRANSFERY:</h1>
 
-// <h3>Transfer Kraków Balice Airport</h3> 
-//    <p>do 4 osób cena dla klienta 120pln</p>
-//    <p>od 5 do 8 osób  dla klienta 140pln</p>
-                                                        
-//  <h3>Transfer Katowice Pyrzowice</h3> -      
-//  <p>do 4 osób 550pln  dla klienta 700pln</p>
-//  <p>do 8 osób 650pln  dla klienta 800pln</p>
+
                                                        
 //  <h1>TOURS/WYCIECZKI:</h1> 
 //  <h2>Auschwitz & Birkenau Tour Sharing </h2>
