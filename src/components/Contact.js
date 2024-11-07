@@ -21,7 +21,7 @@ Nasi doświadczeni kierowcy są gwarantem bezpiecznego przewozu w terminie oraz 
         
         <h2><Link to={'/price'}>Price</Link></h2>
         <h2><Link to={'/tickets'}>Tickets</Link></h2>
-        {/* <h2><Link to={'/formcontact'}>Send message</Link></h2> */}
+        <h2><Link to={'/formcontact'}>Send message</Link></h2>
       
         
     
@@ -35,6 +35,9 @@ Nasi doświadczeni kierowcy są gwarantem bezpiecznego przewozu w terminie oraz 
         <a href="https://www.tripadvisor.com/Attraction_Review-g274772-d7734909-Reviews-VIP_TOUR_CRACOW-Krakow_Lesser_Poland_Province_Southern_Poland.html">
           <img src={tripLogo} alt='facebook-logo'></img>
         </a>
+
+       
+
         
       </div>
 
