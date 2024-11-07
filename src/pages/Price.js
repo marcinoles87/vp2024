@@ -44,15 +44,15 @@ function Price() {
       price6 : 'contact us',
     },
 
-    {
-      destination : 'Energylandia',
-      price1 : '100E',
-      price2 : '30E',
-      price3 : '28E',
-      price4 : '28E',
-      price5 : '28E',
-      price6 : '28E',
-    }
+    // {
+    //   destination : 'Energylandia',
+    //   price1 : '100E',
+    //   price2 : '30E',
+    //   price3 : '28E',
+    //   price4 : '28E',
+    //   price5 : '28E',
+    //   price6 : '28E',
+    // }
 
 
 
