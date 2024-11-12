@@ -13,9 +13,8 @@ function FormContact() {
     console.log(name , email , number , message , trip)
 
     const sendEmail = () => {
-        console.log(`mailto:marcinoles87@gmail.com?subject=${trip}&body= 'email:' ${email} 'phone :' ${number} , message : ${message}`)
 
-        let myNumber = +48783845344
+        let myNumber = +48508392683
 
         let url = `https://wa.me/${myNumber} ?text=I%27m%20api%20msg%20hello%20${name}`
 
@@ -65,7 +64,6 @@ function FormContact() {
                 </label>
 
             <button onClick={sendEmail}>Send</button>
-            <a href="https://api.whatsapp.com/send?text=www.google.com" data-action="share/whatsapp/share">Share via Whatsapp web</a>
 
         </div>
 
