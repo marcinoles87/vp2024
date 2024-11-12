@@ -16,11 +16,10 @@ function FormContact() {
 
         let myNumber = +48508392683
 
-        let url = `https://wa.me/${myNumber} ?text=I%27m%20api%20msg%20hello%20${name}`
+        let url = `https://api.whatsapp.com/send?phone=48508392683&text=${name} ${email} ${number} ${trip} ${message}`
 
         window.open(url , '_blank' ).focus() ;
     
-
 
         }
     
@@ -31,7 +30,7 @@ function FormContact() {
 
         <div className='form-container'>
             <div className='blured'></div>
-            <h2>Send email</h2>
+            <h2>Send message with Whatsapp</h2>
             <label>
                 <p>Name</p>
                 <input type='text' placeholder='name' onChange={ (e) => setName(e.target.value)}></input>
