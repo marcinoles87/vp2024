@@ -8,15 +8,12 @@ function FormContact() {
     const [message , setMessage] = useState('');
     const [trip , setTrip] = useState('')
 
-    const [submit , setSubmit] = useState('');
 
     console.log(name , email , number , message , trip)
 
     const sendEmail = () => {
 
-        let myNumber = +48508392683
-
-        let url = `https://api.whatsapp.com/send?phone=48508392683&text=${name} ${email} ${number} ${trip} ${message}`
+        let url = `https://api.whatsapp.com/send?phone=48508392683&text= Hi my name is ${name} email : ${email} number : ${number}  trip to :${trip} message : ${message}`
 
         window.open(url , '_blank' ).focus() ;
     
@@ -30,7 +27,7 @@ function FormContact() {
 
         <div className='form-container'>
             <div className='blured'></div>
-            <h2>Send message with Whatsapp</h2>
+            <h2>Send message</h2>
             <label>
                 <p>Name</p>
                 <input type='text' placeholder='name' onChange={ (e) => setName(e.target.value)}></input>
@@ -61,6 +58,8 @@ function FormContact() {
                 <p>Message</p>
                 <textarea onChange={ (e) => setMessage(e.target.value)}></textarea>
                 </label>
+
+                <p>Your message will be send by Whatsapp</p>
 
             <button onClick={sendEmail}>Send</button>
 
