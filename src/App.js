@@ -31,6 +31,8 @@ function App() {
     <Routes>
       <Route path='*' element={
         <>
+
+        <a href="https://api.whatsapp.com/send?phone=48508392683&text=Hey We are ready for your message" data-action="share/whatsapp/share" className='whatsup'><i class="fa-brands fa-whatsapp fa-2xl"></i></a>
          <Headnav></Headnav>
          <Nav></Nav>
          <Header></Header>
