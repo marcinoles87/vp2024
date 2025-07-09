@@ -6,7 +6,7 @@ function Headnav() {
         <ul>
             <li><i className="fa-solid fa-phone"></i> +48 508-392-683</li>
             <li><i className="fa-regular fa-envelope"></i> viptourcracow@gmail.pl</li>
-            <li><a href='https://www.facebook.com/people/Viptourcracow-CracowAuchswitzWieliczka-Salt-Mine/100041922716636/'><i className="fa-brands fa-facebook"></i></a></li>
+            <li><a href='https://www.facebook.com/people/Viptourcracow-CracowAuchswitzWieliczka-Salt-Mine/100041922716636/'><i className="fa-brands fa-facebook fa-xl"></i></a></li>
             {/* <li><i className="fa-brands fa-instagram"></i></li> */}
             
             
