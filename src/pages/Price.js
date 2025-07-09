@@ -6,7 +6,7 @@ function Price() {
   const shared = [
     {
       destination : 'Auschwitz & Birkenau Tour ',
-      price1 : '220 pln / sharing',
+      price1 : '250 pln / sharing',
       price2 : '860 pln / private',
       price3 : '1000 pln / private',
       price4 : '1140 pln / private',
@@ -16,9 +16,9 @@ function Price() {
     
     {
       destination : 'Saltmine',
-      price1 : '310 pln',
-      price2 : '620 pln',
-      price3 : '930 pln',
+      price1 : '350 pln',
+      price2 : '680 pln',
+      price3 : '890 pln',
       price4 : '1240 pln',
       price5 : '1550 pln',
       price6 : '1860 pln',
@@ -26,11 +26,11 @@ function Price() {
 
     {
       destination : 'Zakopane',
-      price1 : '-',
-      price2 : '-',
-      price3 : '-',
+      price1 : 'contact us',
+      price2 : 'contact us',
+      price3 : 'contact us',
       price4 : '750 pln',
-      price5 : '-',
+      price5 : 'contact us',
       price6 : '970 pln',
     },
 
@@ -160,15 +160,15 @@ function Price() {
           
             <tr>
               <td>Kraków - Balice Airport</td>
-              <td>120 pln </td>
-              <td>140 pln</td>
+              <td>130 pln </td>
+              <td>150 pln</td>
             
             </tr>
 
             <tr>
               <td>Kraków - Katowice Pyrzowice</td>
-              <td>550 pln </td>
-              <td>650 pln</td>
+              <td>650 pln </td>
+              <td>750 pln</td>
             
             </tr>
           
