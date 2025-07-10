@@ -309,13 +309,25 @@
 
 .voucher-text button{
   padding: 20px;
-  background-color: #645bff;
-  color:white;
-  border: none;
+  background-color:#645bff;
+  color:black;
+  border:1px solid black;
   border-radius: 20px;
   font-size: 2rem;
+  transition: 0.6s ease;
+  box-shadow: 2px 2px 2px 2px black;
 
 }
+
+
+.voucher-text button:hover{
+  
+  color:white;
+  background-color: #1f1997;
+  
+}
+
+
 
 .count-item{
   border-radius: 20px;
