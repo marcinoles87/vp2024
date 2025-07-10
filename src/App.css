@@ -280,8 +280,18 @@
 }
 
 .voucher-container{
-  /* font-family: "Bebas Neue" , sans-serif;
-  font-weight: 400; */
+ display: flex;
+ flex-direction: row;
+ 
+}
+
+.voucher-img img{
+  width: 80%;
+  height: 80%;
+}
+
+.voucher-text{
+  
 }
 
 .count-item{

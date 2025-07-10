@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 import CountUp from 'react-countup';
 
 import mainImg from '../img/aus2024_1 (2).jpeg'
+import voucher from '../img/voucher.jpg'
 
 function Main() {
 
@@ -73,14 +74,16 @@ function Main() {
       </div>
 
       <div className='voucher-container'>
-        <div className='voucher-img'>
-          {/* <img src={mainImg} alt='voucher-img'></img> */}
-        </div>
-
+        
         <div className='voucher-text'>
           <h1>Join to our</h1>
           <h1>Comunnity</h1>
           <p>If you want to get a super voucher for your next trip, join our community today. Don't hesitate, your journey starts today.</p>
+          <button>Join</button>
+        </div>
+
+        <div className='voucher-img'>
+          <img src={voucher} alt='voucher-img'></img>
         </div>
             
       </div>
