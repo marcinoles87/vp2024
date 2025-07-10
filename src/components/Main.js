@@ -72,8 +72,23 @@ function Main() {
             <p><span style={{fontSize:'2.5rem'}}>We are ready </span> <br></br>Our company specializes in organizing private and group trips from Krakow to the most interesting places in the south of Poland. We have extensive expertise in the tourism industry. We have all required licenses and certificates. Our drivers are English-speaking. We offer airport transfer and intercity transport. We invite to cooperation individual customers as well as companies, hotels, travel agencies.</p>
       </div>
 
+      <div className='voucher-container'>
+        <div className='voucher-img'>
+          {/* <img src={mainImg} alt='voucher-img'></img> */}
+        </div>
+
+        <div className='voucher-text'>
+          <h1>Join to our</h1>
+          <h1>Comunnity</h1>
+          <p>If you want to get a super voucher for your next trip, join our community today. Don't hesitate, your journey starts today.</p>
+        </div>
+            
+      </div>
+
     
     </div>
+
+    
 
   )
 }
