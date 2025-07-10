@@ -282,6 +282,7 @@
 .voucher-container{
  display: flex;
  flex-direction: row;
+ margin: 100px auto;
  
 }
 
@@ -291,7 +292,23 @@
 }
 
 .voucher-text{
-  
+  margin:auto 50px;
+}
+
+.voucher-text h1{
+  font-size: 7rem;
+}
+
+.voucher-text p{
+  font-size: 1.3rem;
+}
+
+.voucher-text button{
+  padding: 20px;
+  background-color: var(--main-color);
+  color:black;
+  border-radius: 20px;
+  font-size: 2rem;
 }
 
 .count-item{
