@@ -283,16 +283,20 @@
  display: flex;
  flex-direction: row;
  margin: 100px auto;
+ justify-content: center;
+ align-items: center;
  
 }
 
 .voucher-img img{
   width: 80%;
   height: 80%;
+  border-radius: 10px;
 }
 
 .voucher-text{
   margin:auto 50px;
+  text-align: center;
 }
 
 .voucher-text h1{
@@ -305,10 +309,12 @@
 
 .voucher-text button{
   padding: 20px;
-  background-color: var(--main-color);
-  color:black;
+  background-color: #645bff;
+  color:white;
+  border: none;
   border-radius: 20px;
   font-size: 2rem;
+
 }
 
 .count-item{
@@ -318,6 +324,7 @@
   box-shadow: 2px 2px 2px black;
   color:white;
   text-align: center;
+
 }
 
 .count-item p{
