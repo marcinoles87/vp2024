@@ -863,6 +863,27 @@
     margin: 10px;
    }
 
+   .voucher-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   }
+
+   .voucher-text h1{
+    font-size:2.5rem ;
+   }
+
+   .voucher-text button{
+    font-size: 1.2rem;
+   }
+
+   .voucher-img{
+    width: auto;
+    height: auto;
+    object-fit: cover;
+   }
+
   
 } 
   
