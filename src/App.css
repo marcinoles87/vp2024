@@ -164,7 +164,7 @@
 
 .header-info h1{
   margin-top:10%;
-  font-size: 5.5rem;
+  font-size: 7.5rem;
 
 }
 
@@ -450,7 +450,7 @@
 }
 
 .contact-right h2:hover{
-  font-size: 30px;
+  transform: translateX(20px);
   
 }
 
