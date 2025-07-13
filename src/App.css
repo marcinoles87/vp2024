@@ -319,6 +319,11 @@
 
 }
 
+.voucher-text button a{
+  text-decoration: none;
+  color:white;
+}
+
 
 .voucher-text button:hover{
   
@@ -879,9 +884,14 @@
    }
 
    .voucher-img{
-    width: auto;
+    margin-top: 20px;
+   }
+
+   .voucher-img img{
+    width: 100%;
     height: auto;
-    object-fit: cover;
+    border-radius: 0;
+    
    }
 
   

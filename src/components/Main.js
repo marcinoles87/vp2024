@@ -79,7 +79,7 @@ function Main() {
           <h1>Join to our</h1>
           <h1>Comunnity</h1>
           <p>If you want to get a super voucher for your next trip, join our community today. Don't hesitate, your journey starts today.</p>
-          <button>Get early access</button>
+          <button><a href="">Get early access</a></button>
         </div>
 
         <div className='voucher-img'>
