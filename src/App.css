@@ -692,7 +692,7 @@
 
 
 
-@media screen and (max-width:460px) {
+@media screen and (max-width:500px) {
   
    .head-nav-container ul{
       /* justify-content: space-around; */
@@ -783,6 +783,10 @@
     margin-top: 30px;
     border-radius: 10px;
     width: 70vw;
+   }
+
+   .main-about p span{
+    font-size: 3.5rem !important
    }
 
    .tours-grid{
