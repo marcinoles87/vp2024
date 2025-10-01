@@ -44,17 +44,6 @@ function Price() {
       price6 : 'contact us',
     },
 
-    // {
-    //   destination : 'Energylandia',
-    //   price1 : '100E',
-    //   price2 : '30E',
-    //   price3 : '28E',
-    //   price4 : '28E',
-    //   price5 : '28E',
-    //   price6 : '28E',
-    // }
-
-
 
     
   ]
@@ -70,10 +59,10 @@ function Price() {
   
     
   return (
-    <div className='price-container'>
+    <div className='price-container table-responsive-sm'>
 
         <h1> Single group trip</h1>
-    <Table striped bordered hover variant='dark' responsive='sm'>
+    <Table striped bordered hover variant='dark' responsive='lg'>
       <thead>
         <tr>
           
