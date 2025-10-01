@@ -62,7 +62,7 @@ function Price() {
     <div className='price-container table-responsive-sm'>
 
         <h1> Single group trip</h1>
-    <Table striped bordered hover variant='dark' responsive='lg'>
+    <Table striped bordered hover variant='dark' responsive='sm'>
       <thead>
         <tr>
           
@@ -97,7 +97,7 @@ function Price() {
     </Table>
 
     <h1> Shared group trip</h1>
-    <Table striped bordered hover variant='dark' responsive='lg'>
+    <Table striped bordered hover variant='dark' responsive='sm'>
       <thead>
         <tr>
          
@@ -128,7 +128,7 @@ function Price() {
 
         
     <h1> Transfer</h1>
-    <Table striped bordered hover variant='dark' responsive='lg'>
+    <Table striped bordered hover variant='dark' responsive='sm'>
       <thead>
         <tr>
           {th.map( (item , index) => {

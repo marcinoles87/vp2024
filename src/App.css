@@ -216,6 +216,7 @@
 
 .main-item{
   width: 30%;
+  height: 40vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -736,7 +737,9 @@
     height: 50vh;
    }
 
-   
+   .header-info{
+    justify-content: center;
+   }
 
    .header-info h1{
     font-size: 2.5rem;
@@ -753,10 +756,12 @@
 
    .main-item{
     width: 90%;
+    height: auto;
    }
 
    .main-count{
     padding: 10px;
+    margin-bottom: auto;
    }
 
    
