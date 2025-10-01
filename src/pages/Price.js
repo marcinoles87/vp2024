@@ -113,10 +113,10 @@ function Price() {
         <tr>
          
               
-               <th></th>
-               <th></th>
-               <th></th>
-               <th></th>
+               <th>Destination</th>
+               <th>1/person</th>
+               <th>2-4</th>
+               <th>4-7</th>
              
         </tr>
       </thead>
