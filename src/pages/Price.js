@@ -111,19 +111,17 @@ function Price() {
     <Table striped bordered hover variant='dark' responsive='lg'>
       <thead>
         <tr>
-          {th.map( (item , index) => {
-            return(
-              <>
-               <th>{item.row1}</th>
-               <th>{item.row2}</th>
-               <th>{item.row3}</th>
-               <th>{item.row4}</th>
-              </>
-            )
-          })}
+         
+              
+               <th></th>
+               <th></th>
+               <th></th>
+               <th></th>
+             
         </tr>
       </thead>
       <tbody>
+
         {shared.map( (item ,index) => {
           return(
             <tr key={index}>
