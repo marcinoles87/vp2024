@@ -59,7 +59,7 @@ function Price() {
   
     
   return (
-    <div className='price-container table-responsive-sm'>
+    <div className='price-container table-responsive'>
 
         <h1> Single group trip</h1>
     <Table striped bordered hover variant='dark' responsive='sm'>
@@ -130,17 +130,17 @@ function Price() {
     <h1> Transfer</h1>
     <Table striped bordered hover variant='dark' responsive='sm'>
       <thead>
-        <tr>
+        
           {th.map( (item , index) => {
             return(
-              <>
+              <tr key={index}>
                <th>{item.row1}</th>
                <th>{item.row3}</th>
                <th>{item.row4}</th>
-              </>
+              </tr>
             )
           })}
-        </tr>
+        
       </thead>
       <tbody>
        
