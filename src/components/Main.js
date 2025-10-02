@@ -79,7 +79,7 @@ function Main() {
           <h1>Join to our</h1>
           <h1>Comunnity</h1>
           <p>If you want to get a super voucher for your next trip, join our community today. Don't hesitate, your journey starts today.</p>
-          <button><a href="">Get early access</a></button>
+          <a href="https://www.facebook.com/people/Viptourcracow-CracowAuchswitzWieliczka-Salt-Mine/100041922716636/">Get Early acces</a>
         </div>
 
         <div className='voucher-img'>
