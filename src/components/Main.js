@@ -70,7 +70,7 @@ function Main() {
           <img src={mainImg} alt='main-img'></img>
         </div>
             
-            <p><span style={{fontSize:'4.5rem'}}>We are ready </span> <br></br>Our company specializes in organizing private and group trips from Krakow to the most interesting places in the south of Poland. We have extensive expertise in the tourism industry. We have all required licenses and certificates. Our drivers are English-speaking. We offer airport transfer and intercity transport. We invite to cooperation individual customers as well as companies, hotels, travel agencies.</p>
+            <p><span style={{fontSize:'6.5rem' , fontWeight:'bold'}}>We are ready </span> <br></br>Our company specializes in organizing private and group trips from Krakow to the most interesting places in the south of Poland. We have extensive expertise in the tourism industry. We have all required licenses and certificates. Our drivers are English-speaking. We offer airport transfer and intercity transport. We invite to cooperation individual customers as well as companies, hotels, travel agencies.</p>
       </div>
 
       <div className='voucher-container'>
@@ -79,7 +79,7 @@ function Main() {
           <h1>Join to our</h1>
           <h1>Comunnity</h1>
           <p>If you want to get a super voucher for your next trip, join our community today. Don't hesitate, your journey starts today.</p>
-          <a href="https://www.facebook.com/people/Viptourcracow-CracowAuchswitzWieliczka-Salt-Mine/100041922716636/">Get Early acces</a>
+          <a href="https://www.facebook.com/people/Viptourcracow-CracowAuchswitzWieliczka-Salt-Mine/100041922716636/"><button>Get Early acces</button></a>
         </div>
 
         <div className='voucher-img'>
