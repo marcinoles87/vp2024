@@ -23,6 +23,12 @@ import FormContact from './pages/FormContact';
 
 function App() {
 
+  console.log(window.scrollY)
+
+  window.addEventListener( 'scroll' , () => {
+    console.log(window.scrollY)
+  })
+
  
 
   return (

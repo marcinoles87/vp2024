@@ -8,6 +8,10 @@ function Main() {
 
   const [ counter , setCounter] = useState(false)
 
+  const getDate =new Date();
+  const nowYear = getDate.getFullYear()
+  console.log(nowYear)
+
 
   const startCounter = () => {
 
@@ -46,17 +50,17 @@ function Main() {
           <div className='main-count'>
             <div className='count-item'>
             <p>Trips ride</p>
-            <CountUp start={0} end={500} duration={5}></CountUp>
+            <CountUp start={0} end={nowYear+100} duration={5}></CountUp>
             </div>
 
             <div className='count-item'>
             <p>Client care</p>
-            <CountUp start={0} end={1900} duration={10}></CountUp>
+            <CountUp start={0} end={nowYear+200+getDate.getDay()} duration={10}></CountUp>
             </div>
 
             <div className='count-item'>
             <p>Tours done</p>
-            <CountUp start={0} end={756} duration={5}></CountUp>
+            <CountUp start={0} end={nowYear-100} duration={5}></CountUp>
             </div>
             
             
