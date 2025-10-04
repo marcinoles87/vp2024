@@ -79,7 +79,7 @@ function Main() {
 
       <div className='voucher-container'>
         
-        <div className='voucher-text'>
+        <div className='voucher-text animate__backInRight'>
           <h1>Join our</h1>
           <h1>Community</h1>
           <p>If you want to get a super voucher for your next trip, join our community today. Don't hesitate, your journey starts today.</p>
