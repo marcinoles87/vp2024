@@ -1,8 +1,10 @@
 import React, { useState } from 'react'
 import CountUp from 'react-countup';
+import 'react-awesome-reveal'
 
 import mainImg from '../img/aus2024_1 (2).jpeg'
 import voucher from '../img/voucher.jpg'
+import { Slide } from 'react-awesome-reveal';
 
 function Main() {
 
@@ -69,25 +71,35 @@ function Main() {
 }
 
       <div className='main-about'>
-        <div className='main-img'>
+
+        <Slide direction='right' delay={200} triggerOnce={true} fraction={0.5}>
+          <div className='main-img'>
           <img src={mainImg} alt='main-img'></img>
         </div>
-            
             <p><span style={{fontSize:'6rem' , fontWeight:'bold'}}>We are ready </span> <br></br>Our company specializes in organizing private and group trips from Krakow to the most interesting places in the south of Poland. We have extensive expertise in the tourism industry. We have all required licenses and certificates. Our drivers are English-speaking. We offer airport transfer and intercity transport. We invite to cooperation individual customers as well as companies, hotels, travel agencies.</p>
+
+        </Slide>
+        
+            
       </div>
 
+
+
       <div className='voucher-container '>
-        
-        <div className='voucher-text '>
-          <h1 className='animate__animated animate__backInRight'>Join our</h1>
-          <h1 className='animate__animated animate__backInRight'>Community</h1>
-          <p className='animate__animated animate__backInRight'>If you want to get a super voucher for your next trip, join our community today. Don't hesitate, your journey starts today.</p>
+        <Slide direction='left' triggerOnce={true}>
+            <div className='voucher-text '>
+          <h1>Join our</h1>
+          <h1>Community</h1>
+          <p>If you want to get a super voucher for your next trip, join our community today. Don't hesitate, your journey starts today.</p>
           <a href="https://www.facebook.com/people/Viptourcracow-CracowAuchswitzWieliczka-Salt-Mine/100041922716636/" className='animate__animated animate__backInRight'><button>Get Early acces</button></a>
         </div>
 
         <div className='voucher-img'>
-          <img src={voucher} alt='voucher-img' className='animate__animated animate__backInRight'></img>
+          <img src={voucher} alt='voucher-img'></img>
         </div>
+        </Slide>
+        
+      
             
       </div>
 

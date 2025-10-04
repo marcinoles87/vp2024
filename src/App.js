@@ -1,6 +1,7 @@
 
 import './App.css';
 import 'animate.css';
+import 'react-awesome-reveal'
 
 import Nav from './components/Nav'
 import Main from './components/Main'
