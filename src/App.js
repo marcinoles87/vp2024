@@ -1,5 +1,6 @@
 
 import './App.css';
+import 'animate.css';
 
 import Nav from './components/Nav'
 import Main from './components/Main'
