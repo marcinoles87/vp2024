@@ -106,7 +106,7 @@
 .nav-elements li a{
   text-decoration: none;
   color:black;
-  font-weight: 800;
+  /* font-weight: 800; */
   color:white;
 }
 
@@ -119,15 +119,12 @@
   background-color: var(--main-color);
   padding: 10px 20px;
   border-radius: 20px;
-  border: 2px solid black;
   transition: 0.4s ease;
   
 }
 
 .link:hover{
-  background-color: black;
-  color: var(--main-color);
-  border: 2px solid var(--main-color);
+  background-color: rgb(124, 250, 204);
 }
 
 .tour-link{
@@ -763,6 +760,8 @@
    .main-item{
     width: 90%;
     height: auto;
+    margin-top: auto;
+    border: none;
    }
 
    .main-count{

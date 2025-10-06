@@ -15,12 +15,12 @@ function Nav() {
       <div className='nav-list'>
         <ul className='nav-elements'>
          
-          <li><a href='#about'className='link'>About us</a></li>
-          <li><a href='#tours'className='link'>Tours</a></li>
-          <li><Link to={'/price'} className='link'>Price</Link></li>
+          <li><a href='#about'className='link'><i class="fa-solid fa-house"></i> About us</a></li>
+          <li><a href='#tours'className='link'><i class="fa-solid fa-car"></i> Tours</a></li>
+          <li><Link to={'/price'} className='link'><i class="fa-solid fa-dollar"></i> Price</Link></li>
           {/* <li><Link to={'/formcontact'} className='link'>Email</Link></li> */}
           <li><a href='#contact' className='link'>Transfer</a></li>
-          <li><a href='#contact' className='link'>Contact</a></li>
+          <li><a href='#contact' className='link'><i class="fa-solid fa-address-card"></i> Contact</a></li>
         </ul>
       </div>
       </div>
