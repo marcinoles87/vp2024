@@ -71,7 +71,7 @@
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  background-color: rgb(239, 239, 239);
+  background-color:var(--main-color);
   gap:20px;
   
 }
@@ -107,6 +107,7 @@
   text-decoration: none;
   color:black;
   font-weight: 800;
+  color:white;
 }
 
 /*Link*/
