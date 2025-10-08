@@ -15,6 +15,9 @@ function Czestochowa() {
 
   let [picture , setPicture] = useState(czeImg3);
 
+    window.scrollTo(0,0)
+
+
   const images = [
     {
       img:czeImg
