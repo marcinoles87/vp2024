@@ -16,7 +16,7 @@ function Auschwitz() {
 
   let [picture , setPicture] = useState(imgAus);
 
-  
+  window.scrollTo(0,0)
 
   const images = [
     {

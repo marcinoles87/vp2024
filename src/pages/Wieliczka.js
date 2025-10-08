@@ -14,7 +14,8 @@ function Wieliczka() {
   
     let [picture , setPicture] = useState(wieImg5);
 
-  
+    window.scrollTo(0,0)
+
 
     const images = [
       {

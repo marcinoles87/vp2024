@@ -12,6 +12,9 @@ function Zakopane() {
     
   let [picture , setPicture] = useState(zakImg);
 
+    window.scrollTo(0,0)
+
+
   const images = [
     {
       img:zakImg

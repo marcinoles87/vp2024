@@ -10,7 +10,8 @@ import mapAus from '../img/ausMap.png'
 function Cracow() {
   let [picture , setPicture] = useState(imgCra);
 
-  
+    window.scrollTo(0,0)
+
 
   const images = [
     {
