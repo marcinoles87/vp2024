@@ -682,6 +682,11 @@
  
 }
 
+.text-alert{
+  color:red;
+  font-size: smaller;
+}
+
 @media screen and (max-width:1040px) {
   .nav-elements li a{
     font-size: 1rem;

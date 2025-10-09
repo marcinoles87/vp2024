@@ -16,9 +16,7 @@ function FormContact() {
         let url = `https://api.whatsapp.com/send?phone=48508392683&text= Hi my name is ${name} email : ${email} number : ${number}  trip to :${trip} message : ${message}`
 
         window.open(url , '_blank' ).focus() ;
-    
-
-        }
+     }
     
     
 
@@ -31,11 +29,14 @@ function FormContact() {
             <label>
                 <p>Name</p>
                 <input type='text' placeholder='name' onChange={ (e) => setName(e.target.value)}></input>
+                <p className='text-alert'>{name.length < 2 ? 'too short name' : ''}</p>
             </label>
 
             <label>
                 <p>Email</p>
                 <input type='email' placeholder='email' onChange={ (e) => setEmail(e.target.value)}></input>
+                <p className='text-alert'>{email < 2 ? 'wrong email' : ''}</p>
+
             </label>
 
             <label>
