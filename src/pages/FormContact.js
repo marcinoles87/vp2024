@@ -35,13 +35,15 @@ function FormContact() {
             <label>
                 <p>Email</p>
                 <input type='email' placeholder='email' onChange={ (e) => setEmail(e.target.value)}></input>
-                <p className='text-alert'>{email < 2 ? 'wrong email' : ''}</p>
+                <p className='text-alert'>{email.includes('@') ? '' : 'wrong email'}</p>
 
             </label>
 
             <label>
                 <p>Number</p>
                 <input type='number' placeholder='phone' onChange={ (e) => setNumber(e.target.value)}></input>
+                <p className='text-alert'>{email.includes('@') ? '' : 'wrong email'}</p>
+
             </label>
 
             <label htmlFor="tours">Choose a tour:</label>
