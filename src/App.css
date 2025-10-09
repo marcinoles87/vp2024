@@ -678,8 +678,16 @@
 
 .form-container textarea{
   width: 250px;
+  border-radius: 10px;
+  transition: 0.8s ease;
+  padding: 10px;
   
- 
+}
+
+.form-container textarea:hover{
+  
+  background-color: rgb(66, 66, 66);
+  color:white;
 }
 
 .text-alert{

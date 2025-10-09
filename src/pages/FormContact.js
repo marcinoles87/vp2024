@@ -42,7 +42,6 @@ function FormContact() {
             <label>
                 <p>Number</p>
                 <input type='number' placeholder='phone' onChange={ (e) => setNumber(e.target.value)}></input>
-                <p className='text-alert'>{email.includes('@') ? '' : 'wrong email'}</p>
 
             </label>
 
