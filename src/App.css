@@ -663,6 +663,7 @@
   border-radius: 10px;
   line-height: 30px;
   padding: 5px;
+  transition: 0.5s ease;
 }
 
 .form-container p{
@@ -674,6 +675,7 @@
   padding: 10px;
   border-radius: 10px;
   width: 100px;
+  transition: 0.8s ease;
 }
 
 .form-container textarea{
@@ -684,11 +686,15 @@
   
 }
 
-.form-container textarea:hover{
+.form-container textarea:hover,
+ input:hover,
+ button:hover{
   
   background-color: rgb(66, 66, 66);
+  border: 2px solid greenyellow;
   color:white;
 }
+
 
 .text-alert{
   color:red;

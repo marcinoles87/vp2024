@@ -35,7 +35,7 @@ function FormContact() {
             <label>
                 <p>Email</p>
                 <input type='email' placeholder='email' onChange={ (e) => setEmail(e.target.value)}></input>
-                <p className='text-alert'>{email.includes('@') ? '' : 'wrong email'}</p>
+                <p className='text-alert'>{name.length > 1 || email.includes('@') ? '' : ' use @ in your email'}</p>
 
             </label>
 
