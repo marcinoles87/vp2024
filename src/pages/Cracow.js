@@ -58,7 +58,10 @@ We offer private transport and assistance at destination. Our driver will help y
           <p className='rate'> 8.9</p>
           <p className='opinion'>Opinion</p>
           <p className='opinion-text'> 'Cracow is a vibrant city rich in history, beautiful architecture, and cultural heritage, offering visitors a unique and enchanting experience.'</p>
-          <a href="https://www.google.com/maps/place/Krak%C3%B3w/@50.0470038,19.8399839,11z/data=!3m1!4b1!4m6!3m5!1s0x471644c0354e18d1:0xb46bb6b576478abf!8m2!3d50.0646501!4d19.9449799!16zL20vMDQ5MXk?entry=ttu"><img src={mapAus} className='map'></img></a>
+          <a href="https://www.google.com/maps/place/Krak%C3%B3w/@50.0470038,19.8399839,11z/data=!3m1!4b1!4m6!3m5!1s0x471644c0354e18d1:0xb46bb6b576478abf!8m2!3d50.0646501!4d19.9449799!16zL20vMDQ5MXk?entry=ttu">
+                      <p>SEE MAP</p>
+
+          <img src={mapAus} className='map'></img></a>
         </div>
       </div>
 

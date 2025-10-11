@@ -74,7 +74,8 @@ function Wieliczka() {
           <p className='rate'> 8.9</p>
           <p className='opinion'>Opinion</p>
           <p>"A trip to the Wieliczka Salt Mine is a captivating journey through stunning underground sculptures and rich history, making every moment in this magical place an unforgettable adventure."</p>
-          <a href="https://www.google.com/maps/place/Kopalnia+Soli+%E2%80%9EWieliczka%E2%80%9D/@49.9839933,20.0504721,17z/data=!3m1!4b1!4m6!3m5!1s0x471643d805818e4b:0x972549aefd93b415!8m2!3d49.9839899!4d20.053047!16zL20vMGRxczU0?entry=ttu"><img src={mapAus} className='map'></img></a>
+          <a href="https://www.google.com/maps/place/Kopalnia+Soli+%E2%80%9EWieliczka%E2%80%9D/@49.9839933,20.0504721,17z/data=!3m1!4b1!4m6!3m5!1s0x471643d805818e4b:0x972549aefd93b415!8m2!3d49.9839899!4d20.053047!16zL20vMGRxczU0?entry=ttu">            <p>SEE MAP</p>
+<img src={mapAus} className='map'></img></a>
         </div>
         </div>
   
