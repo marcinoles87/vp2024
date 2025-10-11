@@ -84,7 +84,10 @@ function Auschwitz() {
           <p className='opinion'>Opinion</p>
           <p>"A strong experience, an interesting place, worth getting to know for everyone of all ages"</p>
 
-            <a href="https://www.google.com/maps/place/Miejsce+Pami%C4%99ci+i+Muzeum+Auschwitz+II-Birkenau/@50.0378407,19.1712661,17z/data=!3m1!4b1!4m6!3m5!1s0x47169585b5872e05:0xf380c2159aa1d6a7!8m2!3d50.0378407!4d19.173841!16s%2Fg%2F121jcf5m?entry=ttu"><img src={mapAus} className='map' alt='map'></img></a>
+            <a href="https://www.google.com/maps/place/Miejsce+Pami%C4%99ci+i+Muzeum+Auschwitz+II-Birkenau/@50.0378407,19.1712661,17z/data=!3m1!4b1!4m6!3m5!1s0x47169585b5872e05:0xf380c2159aa1d6a7!8m2!3d50.0378407!4d19.173841!16s%2Fg%2F121jcf5m?entry=ttu">
+            
+            <p>SEE MAP</p>
+            <img src={mapAus} className='map' alt='map'></img></a>
 
         
         </div>
